@@ -1,0 +1,99 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// GENERAL
+"褑褟" "" "" "tsa"
+"褑褞" "" "" "tsu"
+"褑懈邪" "" "" "tsa"
+"褑懈械" "" "" "tse"
+"褑懈芯" "" "" "tso"
+"褑懈褍" "" "" "tsu"
+"褋懈械" "" "" "se"
+"褋懈芯" "" "" "so"
+"蟹懈械" "" "" "ze"
+"蟹懈芯" "" "" "zo"
+"褋" "" "褋" ""
+
+"谐邪褍蟹" "" "$" "haus"
+"谐邪褍褋" "" "$" "haus"
+"谐芯谢褜褑" "" "$" "holts"
+"谐械泄屑械褉" "" "$" "(hejmer|hajmer)"
+"谐械泄屑" "" "$" "(hejm|hajm)"
+"谐芯褎" "" "$" "hof"
+"谐械褉" "" "$" "ger"
+"谐械薪" "" "$" "gen"
+"谐懈薪" "" "$" "gin"
+"谐" "(泄|褢|褟|褞|褘|邪|械|芯|懈|褍)" "(邪|械|芯|懈|褍)" "g"
+"谐" "" "(邪|械|芯|懈|褍)" "(g|h)"
+
+"谢褟" "" "" "la"
+"谢褞" "" "" "lu"
+"谢褢" "" "" "(le|lo)"
+"谢懈芯" "" "" "(le|lo)"
+"谢械" "" "" "(lE|lo)"
+
+"懈泄械" "" "" "je"
+"懈械" "" "" "je"
+"褘泄械" "" "" "je"
+"褘械" "" "" "je"
+"懈泄" "" "(邪|芯|褍)" "j"
+"褘泄" "" "(邪|芯|褍)" "j"
+"懈泄" "" "$" "i"
+"褘泄" "" "$" "i"
+
+"械泄" "^" "" "(jej|ej)"
+"械" "(邪|械|芯|褍)" "" "je"
+"械" "^" "" "je"
+"褝泄" "" "" "ej"
+"械泄" "" "" "ej"
+
+"邪褍械" "" "" "aue"
+"邪褍褝" "" "" "aue"
+
+"邪" "" "" "a"
+"斜" "" "" "b"
+"胁" "" "" "v"
+"谐" "" "" "g"
+"写" "" "" "d"
+"械" "" "" "E"
+"褢" "" "" "(e|jo)"
+"卸" "" "" "Z"
+"蟹" "" "" "z"
+"懈" "" "" "I"
+"泄" "" "" "j"
+"泻" "" "" "k"
+"谢" "" "" "l"
+"屑" "" "" "m"
+"薪" "" "" "n"
+"芯" "" "" "o"
+"锌" "" "" "p"
+"褉" "" "" "r"
+"褋" "" "" "s"
+"褌" "" "" "t"
+"褍" "" "" "u"
+"褎" "" "" "f"
+"褏" "" "" "x"
+"褑" "" "" "ts"
+"褔" "" "" "tS"
+"褕" "" "" "S"
+"褖" "" "" "StS"
+"褗" "" "" ""
+"褘" "" "" "I"
+"褜" "" "" ""
+"褝" "" "" "E"
+"褞" "" "" "ju"
+"褟" "" "" "ja"
