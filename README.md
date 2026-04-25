@@ -1,17 +1,1 @@
-# GuardianStar 瀹堟姢鏄?
-鎵嬫満瀹氫綅杩借釜 App / Location Tracking App
-
-## 鍔熻兘
-- **瀹氫綅绔紙琚畧鎶ょ殑鎵嬫満锛?*锛氬疄鏃朵笂鎶?GPS 浣嶇疆鍒版湇鍔″櫒
-- **瀹堟姢绔紙鏌ョ湅浣嶇疆鐨勬墜鏈猴級**锛氬疄鏃舵煡鐪嬭瀹堟姢鑰呬綅缃€佽建杩瑰洖鏀?
-## 鎶€鏈爤
-- React Native / Expo SDK 55
-- 楂樺痉鍦板浘 SDK锛坓cj-02 鍧愭爣锛?- Node.js Express 鍚庣
-
-## 椤圭洰缁撴瀯
-- `App.js` - 涓诲叆鍙?- `src/screens/` - 鐣岄潰锛圠oginScreen, TrackedScreen, GuardianScreen锛?- `src/services/` - 鏈嶅姟锛堝畾浣嶃€侀珮寰峰湴鍥俱€佸畧鎶ゅ叧绯伙級
-- `src/api.js` - API 瀹㈡埛绔?- `server/` - Node.js Express 鍚庣
-
-## 杩愯
-1. 鍚庣锛歚cd server && npm install && node index.js`
-2. App锛歚npx expo run:android`锛堥渶鎵嬫満鍦ㄥ悓涓€灞€鍩熺綉锛?
+IyBHdWFyZGlhblN0YXIg54C55aCf5aei6Y+EPwrpjrXlrKvmuoDngLnmsKvntoXmnanlgJ/ph5wgQXBwIC8gTG9jYXRpb24gVHJhY2tpbmcgQXBwCgojIyDpjZTnhrvlhZgKLSAqKueAueawq+e2hee7lO6IpOe0meeQmu6CoueVp+mOtuOCh+aukemOteWsq+a6gOmUmz8q6ZSb5rCs55aE6Y+D5py156yC6Y62P0dQUyDmtaPltofnlobpjZLniYjmuYfpjZTigLPmq5IKLSAqKueAueWgn+Wnoue7lO6IpOe0memPjOODp+a5hea1o+W2h+eWhumQqOWLrOWinOmPiOeMtOe0mioq6ZSb5rCs55aE6Y+D6Ii154Wh6ZCq5ayt7p2m54C55aCf5aei6ZGw5ZGs57aF57yD7oa64oKs5L295bu65p2p55Gw5rSW6Y+APwojIyDpjrbigqzpj4juiJvniKQKLSBSZWFjdCBOYXRpdmUgLyBFeHBvIFNESyA1NQotIOalguaouueXiemNpuadv+a1mCBTREvplJvlnZNjai0wMiDpjafmhK3niKPplJs/LSBOb2RlLmpzIEV4cHJlc3Mg6Y2a5bqj7oGsCgojIyDmpKTlnK3mtLDnvIHmkrTngK8KLSBgQXBwLmpzYCAtIOa2k+ivsuWPhumNmT8tIGBzcmMvc2NyZWVucy9gIC0g6ZCj5bKE5r2w6ZSb5Zygb2dpblNjcmVlbiwgVHJhY2tlZFNjcmVlbiwgR3VhcmRpYW5TY3JlZW7plJs/LSBgc3JjL3NlcnZpY2VzL2AgLSDpj4jltoXlp5/plJvloJ3nlb7mtaPltoPigqzkvoDnj67lr7Dls7DmubTpjaXkv7HigqzkvbjnlafpjrbjgoXlj6fnu6/kvJnntJoKLSBgc3JjL2FwaS5qc2AgLSBBUEkg54C544ih5Z+b57uUPy0gYHNlcnZlci9gIC0gTm9kZS5qcyBFeHByZXNzIOmNmuW6o+6BrAoKIyMg5p2p5oSv7pSRCjEuIOmNmuW6o+6BrOmUm+atmmNkIHNlcnZlciAmJiBucG0gaW5zdGFsbCAmJiBub2RlIGluZGV4LmpzYAoyLiBBcHDplJvmrZpucHggZXhwbyBydW46YW5kcm9pZGDplJvloKXmuLbpjrXlrKvmuoDpjabjhKXmgpPmtpPigqzngZ7igqzpjannhrrntonplJs/
