@@ -1,1 +1,199 @@
-Ly8gc3JjL3NlcnZpY2VzL2xvY2F0aW9uU2VydmljZS5qcwovLyB2Ni4wIC0g5qWC5qi655eJ54C55rCr57aF5rW85qi65Y6bICsg6Y2Y54a65pWTR1BT6Y2P5ruD57CzICsgSVDngLnmsKvntoXmt4fmv4bnsLMKCmltcG9ydCAqIGFzIExvY2F0aW9uIGZyb20gJ2V4cG8tbG9jYXRpb24nOwppbXBvcnQgeyByZXBvcnRMb2NhdGlvbiBhcyBhcGlSZXBvcnRMb2NhdGlvbiB9IGZyb20gJy4uL2FwaSc7CmltcG9ydCB7IGdldEFtYXBMb2NhdGlvbiwgYW1hcElwTG9jYXRlLCBhbWFwUmVnZW9jb2RlIH0gZnJvbSAnLi9hbWFwTG9jYXRpb25TZXJ2aWNlJzsKCmNvbnN0IFVTRV9BTUFQX0ZJUlNUID0gdHJ1ZTsgIC8vIOmPhO6ImuaDgea1vOaouuWOm+a1o+i3qOaVpOalguaouueXieeAueawq+e2hQoKLy8g6Yi54oKs6Yi54oKsIOmNmOeGuuaVk0dQU+eAueawq+e2hemUm+Wgne6YrOmQouOEpuafn+Wml+WgrOe0miDpiLnigqzpiLnigqwKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFN5c3RlbUdwcyh0aW1lb3V0TXMgPSAzMDAwMCkgewogIGNvbnN0IHsgc3RhdHVzIH0gPSBhd2FpdCBMb2NhdGlvbi5yZXF1ZXN0Rm9yZWdyb3VuZFBlcm1pc3Npb25zQXN5bmMoKTsKICBpZiAoc3RhdHVzICE9PSAnZ3JhbnRlZCcpIHsKICAgIHRocm93IG5ldyBFcnJvcign54C55rCr57aF6Y+J5Yau5qq66Y+I7oGF5be/6Y+JPyk7CiAgfQogIAogIGNvbnNvbGUubG9nKCdb6Y2Y54a65pWTR1BTXSDlr67igqzmv67lrKrnlb7mtaM/Li4nKTsKCiAgLy8g57ub5qCr5pqQMTogZ2V0Q3VycmVudFBvc2l0aW9uQXN5bmMgKyBIaWdo57uu5oOn5a6zCiAgdHJ5IHsKICAgIGNvbnN0IGxvYyA9IGF3YWl0IExvY2F0aW9uLmdldEN1cnJlbnRQb3NpdGlvbkFzeW5jKHsKICAgICAgYWNjdXJhY3k6IExvY2F0aW9uLkFjY3VyYWN5LkhpZ2gsCiAgICAgIG1heGltdW1BZ2U6IDEwMDAwLAogICAgICB0aW1lb3V0OiAyMDAwMCwKICAgIH0pOwogICAgY29uc29sZS5sb2coJ1vpjZjnhrrmlZNHUFNdIOmJgT8sIGxvYy5jb29yZHMubGF0aXR1ZGUudG9GaXhlZCg0KSwgbG9jLmNvb3Jkcy5sb25naXR1ZGUudG9GaXhlZCg0KSk7CiAgICByZXR1cm4gewogICAgICBsYXRpdHVkZTogbG9jLmNvb3Jkcy5sYXRpdHVkZSwKICAgICAgbG9uZ2l0dWRlOiBsb2MuY29vcmRzLmxvbmdpdHVkZSwKICAgICAgYWNjdXJhY3k6IGxvYy5jb29yZHMuYWNjdXJhY3kgfHwgMTAwLAogICAgICBhbHRpdHVkZTogbG9jLmNvb3Jkcy5hbHRpdHVkZSB8fCAwLAogICAgICBzcGVlZDogbG9jLmNvb3Jkcy5zcGVlZCB8fCAwLAogICAgICB0aW1lc3RhbXA6IGxvYy50aW1lc3RhbXAsCiAgICAgIHNvdXJjZTogJ+mNmOeGuuaVk0dQUycsCiAgICB9OwogIH0gY2F0Y2ggKGUxKSB7CiAgICBjb25zb2xlLmxvZygnW+mNmOeGuuaVk0dQU10g5r626L6r6KemOicsIGUxLm1lc3NhZ2UpOwogICAgdGhyb3cgZTE7CiAgfQp9CgovLyDpiLnigqzpiLnigqwg5qWC5qi655eJ54C55rCr57aF6ZSb5aCl7pu76Zar5aSL5p+f5aaX5aCs57SaIOmIueKCrOmIueKCrApleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0QW1hcEdwcygpIHsKICB0cnkgewogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4nngLnmsKvntoVdIOWvruKCrOa/rj8uLicpOwogICAgY29uc3QgbG9jID0gYXdhaXQgZ2V0QW1hcExvY2F0aW9uKCk7CiAgICBjb25zb2xlLmxvZygnW+alguaouueXieeAueawq+e2hV0g6YmBPywgbG9jLnNvdXJjZSwgbG9jLmxhdGl0dWRlLnRvRml4ZWQoNCksIGxvYy5sb25naXR1ZGUudG9GaXhlZCg0KSk7CiAgICByZXR1cm4gbG9jOwogIH0gY2F0Y2ggKGUpIHsKICAgIGNvbnNvbGUubG9nKCdb5qWC5qi655eJ54C55rCr57aFXSDpiYI/LCBlLm1lc3NhZ2UpOwogICAgdGhyb3cgZTsKICB9Cn0KCi8vIOmIueKCrOmIueKCrCBJUOeAueawq+e2hemUm+WgnOe5muaQtOabn+afn+Wml+WgrOe0miDpiLnigqzpiLnigqwKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGlwTG9jYXRlKCkgewogIHRyeSB7CiAgICAvLyDmtbzmqLrljpvmtaPot6jmlaTmpYLmqLrnl4lJUOeAueawq+e2hQogICAgcmV0dXJuIGF3YWl0IGFtYXBJcExvY2F0ZSgpOwogIH0gY2F0Y2ggKGUpIHsKICAgIGNvbnNvbGUubG9nKCdb5qWC5qi655eJSVDmvrbovqvop6bplJvlsbzlqIfpkKLjhKXumKzpkKLihpZQ54C55rCr57aFXScpOwogIH0KICAKICAvLyDmvrblm6nmlaRJUOeAueawq+e2hQogIHRyeSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCgnaHR0cDovL2lwLWFwaS5jb20vanNvbi8/ZmllbGRzPXN0YXR1cyxtZXNzYWdlLGNvdW50cnksY2l0eSxsYXQsbG9uJyk7CiAgICBpZiAoIXJlcy5vaykgdGhyb3cgbmV3IEVycm9yKGBIVFRQICR7cmVzLnN0YXR1c31gKTsKICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgaWYgKGpzb24uc3RhdHVzID09PSAnZmFpbCcpIHRocm93IG5ldyBFcnJvcihqc29uLm1lc3NhZ2UgfHwgJ0lQ54C55rCr57aF5r626L6r6KemJyk7CiAgICBjb25zb2xlLmxvZygnW0lQ54C55rCr57aFXSDpiYE/LCBqc29uLmNpdHksIGpzb24ubGF0LCBqc29uLmxvbik7CiAgICByZXR1cm4geyAKICAgICAgbGF0aXR1ZGU6IGpzb24ubGF0LCAKICAgICAgbG9uZ2l0dWRlOiBqc29uLmxvbiwgCiAgICAgIGFjY3VyYWN5OiAzMDAwLCAKICAgICAgYWx0aXR1ZGU6IDAsIAogICAgICBzcGVlZDogMCwgCiAgICAgIHRpbWVzdGFtcDogRGF0ZS5ub3coKSwgCiAgICAgIHNvdXJjZTogJ0lQ54C55rCr57aFJyAKICAgIH07CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coJ1tJUOeAueawq+e2hV0g6YmCPywgZS5tZXNzYWdlKTsKICAgIHRocm93IG5ldyBFcnJvcignSVDngLnmsKvntoXmvrbovqvop6Y6ICcgKyBlLm1lc3NhZ2UpOwogIH0KfQoKLy8g6Yi54oKs6Yi54oKsIOmPhem4v+WFmOeAueawq+e2hemUm+awtuePruWvsOicgue0remNjz/piKs/6Y2Y54a65pWTR1BTIOmIqz9JUOmNj+a7g+ewsyDpiLnigqzpiLnigqwKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldEN1cnJlbnRMb2NhdGlvbigpIHsKICBjb25zdCBlcnJvcnMgPSBbXTsKICAKICAvLyDnu5vmoKvmmpAxOiDmpYLmqLrnl4nngLnmsKvntoXplJvloJ3mtZfpjZDlka3lkIvngLnop4TigqzRhOa4tua/guaWpOe0mgogIGlmIChVU0VfQU1BUF9GSVJTVCkgewogICAgdHJ5IHsKICAgICAgY29uc29sZS5sb2coJ1vngLnmsKvntoVdIOe7m+agq+aakDE6IOalguaouueXieeAueawq+e2hS4uLicpOwogICAgICByZXR1cm4gYXdhaXQgZ2V0QW1hcEdwcygpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBlcnJvcnMucHVzaCgn5qWC5qi655eJOicgKyBlLm1lc3NhZ2UpOwogICAgICBjb25zb2xlLmxvZygnW+eAueawq+e2hV0g5qWC5qi655eJ5r626L6r6Kem6ZSb5bKE5qq357u+0YPluKvpkKLng6VQUycpOwogICAgfQogIH0KICAKICAvLyDnu5vmoKvmmpAyOiDpjZjnhrrmlZNHUFMKICB0cnkgewogICAgY29uc29sZS5sb2coJ1vngLnmsKvntoVdIOe7m+agq+aakDI6IOmNmOeGuuaVk0dQUy4uLicpOwogICAgcmV0dXJuIGF3YWl0IGdldFN5c3RlbUdwcygzMDAwMCk7CiAgfSBjYXRjaCAoZSkgewogICAgZXJyb3JzLnB1c2goJ+mNmOeGuuaVk0dQUzonICsgZS5tZXNzYWdlKTsKICAgIGNvbnNvbGUubG9nKCdb54C55rCr57aFXSDpjZjnhrrmlZNHUFPmvrbovqvop6bplJvlsoTmqrfnu77unI9Q54C55rCr57aFJyk7CiAgfQogIAogIC8vIOe7m+agq+aakDM6IElQ54C55rCr57aF6ZSb5aCc57ma5pC05puq57SaCiAgdHJ5IHsKICAgIGNvbnNvbGUubG9nKCdb54C55rCr57aFXSDnu5vmoKvmmpAzOiBJUOeAueawq+e2hS4uLicpOwogICAgcmV0dXJuIGF3YWl0IGlwTG9jYXRlKCk7CiAgfSBjYXRjaCAoZSkgewogICAgZXJyb3JzLnB1c2goJ0lQOicgKyBlLm1lc3NhZ2UpOwogICAgdGhyb3cgbmV3IEVycm9yKCfpjrXigqzpj4jlpIrnlb7mtaPltobmn5/lppfloKXlhZjmvrbovqvop6Y6ICcgKyBlcnJvcnMuam9pbignOyAnKSk7CiAgfQp9CgovLyDpiLnigqzpiLnigqwg6Y2a5bqh5b206Y645L2655S754C55rCr57aFIOmIueKCrOmIueKCrApsZXQgX3dhdGNoU3Vic2NyaXB0aW9uID0gbnVsbDsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBzdGFydEJhY2tncm91bmRHcHMob25VcGRhdGUpIHsKICB0cnkgewogICAgY29uc3QgeyBzdGF0dXMgfSA9IGF3YWl0IExvY2F0aW9uLnJlcXVlc3RGb3JlZ3JvdW5kUGVybWlzc2lvbnNBc3luYygpOwogICAgaWYgKHN0YXR1cyAhPT0gJ2dyYW50ZWQnKSB7CiAgICAgIGNvbnNvbGUubG9nKCdb6Y2a5bqh5b2054C55rCr57aFXSDpj4PnirPmvYjpl4Q/KTsKICAgICAgb25VcGRhdGUoeyBzb3VyY2U6ICdJUOeAueawq+e2hScsIGVycm9yOiAn6Y+D54qz5r2I6ZeEPyB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgCiAgICBfd2F0Y2hTdWJzY3JpcHRpb24gPSBhd2FpdCBMb2NhdGlvbi53YXRjaFBvc2l0aW9uQXN5bmMoCiAgICAgIHsKICAgICAgICBhY2N1cmFjeTogTG9jYXRpb24uQWNjdXJhY3kuSGlnaCwKICAgICAgICBkaXN0YW5jZUludGVydmFsOiAxMCwKICAgICAgICB0aW1lSW50ZXJ2YWw6IDMwMDAwLAogICAgICB9LAogICAgICAobG9jKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ1vpjZrluqHlvbTngLnmsKvntoVdIOmPh+WtmOafijonLCBsb2MuY29vcmRzLmxhdGl0dWRlLnRvRml4ZWQoNCksIGxvYy5jb29yZHMubG9uZ2l0dWRlLnRvRml4ZWQoNCkpOwogICAgICAgIG9uVXBkYXRlKHsKICAgICAgICAgIGxhdGl0dWRlOiBsb2MuY29vcmRzLmxhdGl0dWRlLAogICAgICAgICAgbG9uZ2l0dWRlOiBsb2MuY29vcmRzLmxvbmdpdHVkZSwKICAgICAgICAgIGFjY3VyYWN5OiBsb2MuY29vcmRzLmFjY3VyYWN5IHx8IDEwMCwKICAgICAgICAgIGFsdGl0dWRlOiBsb2MuY29vcmRzLmFsdGl0dWRlIHx8IDAsCiAgICAgICAgICBzcGVlZDogbG9jLmNvb3Jkcy5zcGVlZCB8fCAwLAogICAgICAgICAgdGltZXN0YW1wOiBsb2MudGltZXN0YW1wLAogICAgICAgICAgc291cmNlOiAn6Y2Y54a65pWTR1BTJywKICAgICAgICB9KTsKICAgICAgfQogICAgKTsKICAgIGNvbnNvbGUubG9nKCdb6Y2a5bqh5b2054C55rCr57aFXSDlrrjmj5Lmg47pjZQ/KTsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmxvZygnW+mNmuW6oeW9tOeAueawq+e2hV0g6Y2a7oia5aep5r626L6r6KemOicsIGUubWVzc2FnZSk7CiAgfQp9CgpleHBvcnQgZnVuY3Rpb24gc3RvcEJhY2tncm91bmRHcHMoKSB7CiAgaWYgKF93YXRjaFN1YnNjcmlwdGlvbikgewogICAgX3dhdGNoU3Vic2NyaXB0aW9uLnJlbW92ZSgpOwogICAgX3dhdGNoU3Vic2NyaXB0aW9uID0gbnVsbDsKICAgIGNvbnNvbGUubG9nKCdb6Y2a5bqh5b2054C55rCr57aFXSDlrrjmj5Lku6Dlp50/KTsKICB9Cn0KCi8vIOmIueKCrOmIueKCrCDpj4nlhq7mqrrlpqvigqzpj4w/6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZXF1ZXN0TG9jYXRpb25QZXJtaXNzaW9ucygpIHsKICB0cnkgewogICAgY29uc3QgeyBzdGF0dXMgfSA9IGF3YWl0IExvY2F0aW9uLnJlcXVlc3RGb3JlZ3JvdW5kUGVybWlzc2lvbnNBc3luYygpOwogICAgcmV0dXJuIHsgZm9yZWdyb3VuZDogc3RhdHVzID09PSAnZ3JhbnRlZCcgfTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4geyBmb3JlZ3JvdW5kOiBmYWxzZSB9OwogIH0KfQoKLy8g6Yi54oKs6Yi54oKsIOa2k+Wpg+WnpOa1o+W2h+eWhumNkuadv+aCl+e7lD/piLnigqzpiLnigqwKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlcG9ydExvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25EYXRhKSB7CiAgdHJ5IHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGFwaVJlcG9ydExvY2F0aW9uKHVzZXJJZCwgbG9jYXRpb25EYXRhKTsKICAgIHJldHVybiByZXN1bHQuc3VjY2VzczsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcign5raT5amD5aek5rWj5baH55aG5r626L6r6KemOicsIGVycm9yKTsKICAgIHJldHVybiBmYWxzZTsKICB9Cn0KCi8vIOmIueKCrOmIueKCrCDmpYLmqLrnl4nplqvll5fmubTpkJ7ll5nntKrpkK7kvorntJnpkb7ls7DlvYfpjabmnb/mvYPplJs/6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRBZGRyZXNzRnJvbUNvb3JkcyhsYXRpdHVkZSwgbG9uZ2l0dWRlKSB7CiAgdHJ5IHsKICAgIHJldHVybiBhd2FpdCBhbWFwUmVnZW9jb2RlKGxhdGl0dWRlLCBsb25naXR1ZGUpOwogIH0gY2F0Y2ggKGUpIHsKICAgIGNvbnNvbGUubG9nKCfplqvll5fmubTpkJ7ll5nntKrpkK7kvbjjgZHnkpA/JywgZS5tZXNzYWdlKTsKICAgIHJldHVybiBudWxsOwogIH0KfQoKLy8g6Yi54oKs6Yi54oKsIOmNj+eFju6GkOmPg9GE5bi06Y2ZP+mIueKCrOmIueKCrApleHBvcnQgZnVuY3Rpb24gZ2V0V2ViVmlld0dlb1NjcmlwdCgpIHsgcmV0dXJuICd0cnVlOyc7IH0KZXhwb3J0IGZ1bmN0aW9uIGdldEdlb1dlYlZpZXdIdG1sKCkgeyByZXR1cm4gJzwhRE9DVFlQRSBodG1sPjxodG1sPjxib2R5PjwvYm9keT48L2h0bWw+JzsgfQpleHBvcnQgZnVuY3Rpb24gb25XZWJWaWV3R3BzUmVzdWx0KCkge30K
+// src/services/locationService.js
+// v6.0 - 楂樺痉瀹氫綅浼樺厛 + 鍘熺敓GPS鍏滃簳 + IP瀹氫綅淇濆簳
+
+import * as Location from 'expo-location';
+import { reportLocation as apiReportLocation } from '../api';
+import { getAmapLocation, amapIpLocate, amapRegeocode } from './amapLocationService';
+
+const USE_AMAP_FIRST = true;  // 鏄惁浼樺厛浣跨敤楂樺痉瀹氫綅
+
+// 鈹€鈹€ 鍘熺敓GPS瀹氫綅锛堝鐢ㄦ柟妗堬級 鈹€鈹€
+export async function getSystemGps(timeoutMs = 30000) {
+  const { status } = await Location.requestForegroundPermissionsAsync();
+  if (status !== 'granted') {
+    throw new Error('瀹氫綅鏉冮檺鏈巿鏉?);
+  }
+  
+  console.log('[鍘熺敓GPS] 寮€濮嬪畾浣?..');
+
+  // 绛栫暐1: getCurrentPositionAsync + High绮惧害
+  try {
+    const loc = await Location.getCurrentPositionAsync({
+      accuracy: Location.Accuracy.High,
+      maximumAge: 10000,
+      timeout: 20000,
+    });
+    console.log('[鍘熺敓GPS] 鉁?, loc.coords.latitude.toFixed(4), loc.coords.longitude.toFixed(4));
+    return {
+      latitude: loc.coords.latitude,
+      longitude: loc.coords.longitude,
+      accuracy: loc.coords.accuracy || 100,
+      altitude: loc.coords.altitude || 0,
+      speed: loc.coords.speed || 0,
+      timestamp: loc.timestamp,
+      source: '鍘熺敓GPS',
+    };
+  } catch (e1) {
+    console.log('[鍘熺敓GPS] 澶辫触:', e1.message);
+    throw e1;
+  }
+}
+
+// 鈹€鈹€ 楂樺痉瀹氫綅锛堥閫夋柟妗堬級 鈹€鈹€
+export async function getAmapGps() {
+  try {
+    console.log('[楂樺痉瀹氫綅] 寮€濮?..');
+    const loc = await getAmapLocation();
+    console.log('[楂樺痉瀹氫綅] 鉁?, loc.source, loc.latitude.toFixed(4), loc.longitude.toFixed(4));
+    return loc;
+  } catch (e) {
+    console.log('[楂樺痉瀹氫綅] 鉂?, e.message);
+    throw e;
+  }
+}
+
+// 鈹€鈹€ IP瀹氫綅锛堜繚搴曟柟妗堬級 鈹€鈹€
+export async function ipLocate() {
+  try {
+    // 浼樺厛浣跨敤楂樺痉IP瀹氫綅
+    return await amapIpLocate();
+  } catch (e) {
+    console.log('[楂樺痉IP澶辫触锛屼娇鐢ㄥ鐢↖P瀹氫綅]');
+  }
+  
+  // 澶囩敤IP瀹氫綅
+  try {
+    const res = await fetch('http://ip-api.com/json/?fields=status,message,country,city,lat,lon');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+    if (json.status === 'fail') throw new Error(json.message || 'IP瀹氫綅澶辫触');
+    console.log('[IP瀹氫綅] 鉁?, json.city, json.lat, json.lon);
+    return { 
+      latitude: json.lat, 
+      longitude: json.lon, 
+      accuracy: 3000, 
+      altitude: 0, 
+      speed: 0, 
+      timestamp: Date.now(), 
+      source: 'IP瀹氫綅' 
+    };
+  } catch (e) {
+    console.log('[IP瀹氫綅] 鉂?, e.message);
+    throw new Error('IP瀹氫綅澶辫触: ' + e.message);
+  }
+}
+
+// 鈹€鈹€ 鏅鸿兘瀹氫綅锛氶珮寰蜂紭鍏?鈫?鍘熺敓GPS 鈫?IP鍏滃簳 鈹€鈹€
+export async function getCurrentLocation() {
+  const errors = [];
+  
+  // 绛栫暐1: 楂樺痉瀹氫綅锛堝浗鍐呭吋瀹规€ф渶濂斤級
+  if (USE_AMAP_FIRST) {
+    try {
+      console.log('[瀹氫綅] 绛栫暐1: 楂樺痉瀹氫綅...');
+      return await getAmapGps();
+    } catch (e) {
+      errors.push('楂樺痉:' + e.message);
+      console.log('[瀹氫綅] 楂樺痉澶辫触锛岄檷绾у師鐢烥PS');
+    }
+  }
+  
+  // 绛栫暐2: 鍘熺敓GPS
+  try {
+    console.log('[瀹氫綅] 绛栫暐2: 鍘熺敓GPS...');
+    return await getSystemGps(30000);
+  } catch (e) {
+    errors.push('鍘熺敓GPS:' + e.message);
+    console.log('[瀹氫綅] 鍘熺敓GPS澶辫触锛岄檷绾P瀹氫綅');
+  }
+  
+  // 绛栫暐3: IP瀹氫綅锛堜繚搴曪級
+  try {
+    console.log('[瀹氫綅] 绛栫暐3: IP瀹氫綅...');
+    return await ipLocate();
+  } catch (e) {
+    errors.push('IP:' + e.message);
+    throw new Error('鎵€鏈夊畾浣嶆柟妗堥兘澶辫触: ' + errors.join('; '));
+  }
+}
+
+// 鈹€鈹€ 鍚庡彴鎸佺画瀹氫綅 鈹€鈹€
+let _watchSubscription = null;
+
+export async function startBackgroundGps(onUpdate) {
+  try {
+    const { status } = await Location.requestForegroundPermissionsAsync();
+    if (status !== 'granted') {
+      console.log('[鍚庡彴瀹氫綅] 鏃犳潈闄?);
+      onUpdate({ source: 'IP瀹氫綅', error: '鏃犳潈闄? });
+      return;
+    }
+    
+    _watchSubscription = await Location.watchPositionAsync(
+      {
+        accuracy: Location.Accuracy.High,
+        distanceInterval: 10,
+        timeInterval: 30000,
+      },
+      (loc) => {
+        console.log('[鍚庡彴瀹氫綅] 鏇存柊:', loc.coords.latitude.toFixed(4), loc.coords.longitude.toFixed(4));
+        onUpdate({
+          latitude: loc.coords.latitude,
+          longitude: loc.coords.longitude,
+          accuracy: loc.coords.accuracy || 100,
+          altitude: loc.coords.altitude || 0,
+          speed: loc.coords.speed || 0,
+          timestamp: loc.timestamp,
+          source: '鍘熺敓GPS',
+        });
+      }
+    );
+    console.log('[鍚庡彴瀹氫綅] 宸插惎鍔?);
+  } catch (e) {
+    console.log('[鍚庡彴瀹氫綅] 鍚姩澶辫触:', e.message);
+  }
+}
+
+export function stopBackgroundGps() {
+  if (_watchSubscription) {
+    _watchSubscription.remove();
+    _watchSubscription = null;
+    console.log('[鍚庡彴瀹氫綅] 宸插仠姝?);
+  }
+}
+
+// 鈹€鈹€ 鏉冮檺妫€鏌?鈹€鈹€
+export async function requestLocationPermissions() {
+  try {
+    const { status } = await Location.requestForegroundPermissionsAsync();
+    return { foreground: status === 'granted' };
+  } catch (e) {
+    return { foreground: false };
+  }
+}
+
+// 鈹€鈹€ 涓婃姤浣嶇疆鍒板悗绔?鈹€鈹€
+export async function reportLocation(userId, locationData) {
+  try {
+    const result = await apiReportLocation(userId, locationData);
+    return result.success;
+  } catch (error) {
+    console.error('涓婃姤浣嶇疆澶辫触:', error);
+    return false;
+  }
+}
+
+// 鈹€鈹€ 楂樺痉閫嗗湴鐞嗙紪鐮侊紙鑾峰彇鍦板潃锛?鈹€鈹€
+export async function getAddressFromCoords(latitude, longitude) {
+  try {
+    return await amapRegeocode(latitude, longitude);
+  } catch (e) {
+    console.log('閫嗗湴鐞嗙紪鐮佸け璐?', e.message);
+    return null;
+  }
+}
+
+// 鈹€鈹€ 鍏煎鏃ф帴鍙?鈹€鈹€
+export function getWebViewGeoScript() { return 'true;'; }
+export function getGeoWebViewHtml() { return '<!DOCTYPE html><html><body></body></html>'; }
+export function onWebViewGpsResult() {}
