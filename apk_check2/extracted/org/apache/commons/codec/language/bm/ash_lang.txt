@@ -1,0 +1,206 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// ASHKENAZIC
+
+// 1. following are rules to accept the language
+// 1.1 Special letter combinations
+zh polish+russian+german+english true
+eau french true
+[aoeiu盲枚眉]h german true
+^vogel german, true
+vogel$ german true
+witz german true
+tz$ german+russian+english true
+^tz russian+english true
+g眉e spanish true
+g眉i spanish true
+ghe romanian true
+ghi romanian true
+vici$ romanian true
+schi$ romanian true
+chsch german true
+tsch german true
+ssch german true
+sch$ german+russian true
+^sch german+russian true
+^rz polish true
+rz$ polish+german true
+[^aoeiu盲枚眉]rz polish true
+rz[^aoeiu盲枚眉] polish true
+cki$ polish true
+ska$ polish true
+cka$ polish true
+ue german+russian true
+ae german+russian+english true
+oe german+french+russian+english true
+th$ german true
+^th german true
+th[^aoeiu] german true
+mann german true
+cz polish true
+cy polish true
+niew polish true
+stein german true
+heim$ german true
+heimer$ german true
+ii$ russian true
+iy$ russian true
+yy$ russian true
+yi$ russian true
+yj$ russian true
+ij$ russian true
+gaus$ russian true
+gauz$ russian true
+gauz$ russian true
+goltz$ russian true
+gol'tz$ russian true 
+golts$ russian true 
+gol'ts$ russian true 
+^goltz russian true
+^gol'tz russian true 
+^golts russian true 
+^gol'ts russian true 
+gendler$ russian true 
+gejmer$ russian true 
+gejm$ russian true 
+geimer$ russian true 
+geim$ russian true 
+geymer russian true 
+geym$ russian true 
+gof$ russian true 
+thal german true
+zweig german true
+ck$ german+english true
+c$ polish+romanian+hungarian true
+sz polish+hungarian true
+gue spanish+french true
+gui spanish+french true
+guy french true
+cs$ hungarian true
+^cs hungarian true
+dzs hungarian true
+zs$ hungarian true
+^zs hungarian true
+^wl polish true
+^wr polish+english+german true
+
+gy$ hungarian true
+gy[aeou] hungarian true
+gy hungarian+russian true
+ly hungarian+russian+polish true
+ny hungarian+russian+polish true
+ty hungarian+russian+polish true 
+
+// 1.2 special characters    
+芒 romanian+french true
+膬 romanian true
+脿 french true
+盲 german true
+谩 hungarian+spanish true
+膮 polish true
+膰 polish true
+莽 french true
+臋 polish true
+茅 french+hungarian+spanish true
+猫 french true
+锚 french true
+铆 hungarian+spanish true
+卯 romanian+french true
+艂 polish true
+艅 polish true
+帽 spanish true
+贸 polish+hungarian+spanish true
+枚 german+hungarian true
+玫 hungarian true
+艧 romanian true
+艣 polish true
+牛 romanian true
+眉 german+hungarian true
+霉 french true
+疟 hungarian true
+煤 hungarian+spanish true
+藕 polish true
+偶 polish true
+    
+脽 german true
+
+// Every Cyrillic word has at least one Cyrillic vowel (邪褢械芯懈褍褘褝褞褟) 
+邪 cyrillic true 
+褢 cyrillic true 
+芯 cyrillic true 
+械 cyrillic true 
+懈 cyrillic true 
+褍 cyrillic true 
+褘 cyrillic true 
+褝 cyrillic true 
+褞 cyrillic true 
+褟 cyrillic true 
+    
+// Hebrew 
+讗 hebrew true
+讘 hebrew true
+讙 ebrew true
+讚 hebrew true
+讛 hebrew true
+讜 hebrew true
+讝 hebrew true
+讞 hebrew true
+讟 hebrew true
+讬 hebrew true
+讻 hebrew true
+诇 hebrew true
+诪 hebrew true
+谞 hebrew true
+住 hebrew true
+注 hebrew true
+驻 hebrew true
+爪 hebrew true 
+拽 hebrew true
+专 hebrew true
+砖 hebrew true
+转 hebrew true
+    
+    
+// 2. following are rules to reject the language
+// Every Latin character word has at least one Latin vowel  
+a cyrillic+hebrew false 
+o cyrillic+hebrew false 
+e cyrillic+hebrew false 
+i cyrillic+hebrew false 
+y cyrillic+hebrew+romanian false 
+u cyrillic+hebrew false 
+  
+v[^aoeiu盲眉枚] german false // in german "v" can be found before a vowel only
+y[^aoeiu] german false  // in german "y" usually appears only in the last position; sometimes before a vowel
+c[^aohk] german false
+dzi german+english+french false
+ou german false
+aj german+english+french false
+ej german+english+french false
+oj german+english+french false
+uj german+english+french false
+k romanian false
+v polish false
+ky polish false
+eu russian+polish false
+w french+romanian+spanish+hungarian+russian false
+kie french+spanish false
+gie french+romanian+spanish false
+q hungarian+polish+russian+romanian false
+sch hungarian+polish+french+spanish false
+^h russian false
