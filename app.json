@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "GuardianNew",
+    "slug": "GuardianNew",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "ACCESS_NETWORK_STATE",
+        "ACCESS_WIFI_STATE",
+        "CHANGE_WIFI_STATE",
+        "READ_PHONE_STATE"
+      ],
+      "package": "com.anonymous.GuardianNew"
+    },
+    "plugins": [
+      ["./config-plugins/withCleartextTraffic"],
+      ["./config-plugins/withAmapLocation", { "apiKey": "ea5aa93cb5ed3de2a5c701434dc3e781" }]
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f6884e1a-ca3b-4213-969a-b2fef81bd9a0"
+      }
+    }
+  }
+}
