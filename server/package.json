@@ -1,1 +1,13 @@
-ewogICJuYW1lIjogImd1YXJkaWFuc3Rhci1zZXJ2ZXIiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAiZGVzY3JpcHRpb24iOiAiR3VhcmRpYW5TdGFyIGxvY2F0aW9uIHRyYWNraW5nIGJhY2tlbmQiLAogICJtYWluIjogImluZGV4LmpzIiwKICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJub2RlIGluZGV4LmpzIgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJleHByZXNzIjogIl40LjIxLjAiLAogICAgImNvcnMiOiAiXjIuOC41IgogIH0KfQo=
+{
+  "name": "guardianstar-server",
+  "version": "1.0.0",
+  "description": "GuardianStar location tracking backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  }
+}
