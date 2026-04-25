@@ -1,1 +1,71 @@
-Y29uc3QgeyB3aXRoQW5kcm9pZE1hbmlmZXN0LCB3aXRoUHJvamVjdEJ1aWxkR3JhZGxlLCB3aXRoQXBwQnVpbGRHcmFkbGUgfSA9IHJlcXVpcmUoJ0BleHBvL2NvbmZpZy1wbHVnaW5zJyk7DQoNCmNvbnN0IHdpdGhBbWFwTG9jYXRpb24gPSAoY29uZmlnLCB7IGFwaUtleSB9KSA9PiB7DQogIC8vIDEuIOa3h+6GveaVvCBBbmRyb2lkTWFuaWZlc3QueG1sIOWoo+ivsuWnnualguaouueXiUtleemNnOWxvua9iOmXhD8KICBjb25maWcgPSB3aXRoQW5kcm9pZE1hbmlmZXN0KGNvbmZpZywgKGNvbmZpZykgPT4gew0KICAgIGNvbnN0IG1hbmlmZXN0ID0gY29uZmlnLm1vZFJlc3VsdHMubWFuaWZlc3Q7DQogICAgY29uc3QgYXBwID0gbWFuaWZlc3QuYXBwbGljYXRpb25bMF07DQogICAgDQogICAgLy8g5aij6K+y5aee5qWC5qi655eJ54C55rCr57aF6Y+I5baF5aef5r6554mI5qeRDQogICAgaWYgKCFhcHAuc2VydmljZSkgew0KICAgICAgYXBwLnNlcnZpY2UgPSBbXTsNCiAgICB9DQogICAgY29uc3QgaGFzU2VydmljZSA9IGFwcC5zZXJ2aWNlLnNvbWUocyA9PiBzLiRbJ2FuZHJvaWQ6bmFtZSddID09PSAnY29tLmFtYXAuYXBpLmxvY2F0aW9uLkFQU1NlcnZpY2UnKTsNCiAgICBpZiAoIWhhc1NlcnZpY2UpIHsNCiAgICAgIGFwcC5zZXJ2aWNlLnB1c2goew0KICAgICAgICAkOiB7DQogICAgICAgICAgJ2FuZHJvaWQ6bmFtZSc6ICdjb20uYW1hcC5hcGkubG9jYXRpb24uQVBTU2VydmljZScsDQogICAgICAgICAgJ2FuZHJvaWQ6ZW5hYmxlZCc6ICd0cnVlJywNCiAgICAgICAgICAnYW5kcm9pZDpleHBvcnRlZCc6ICdmYWxzZScNCiAgICAgICAgfQ0KICAgICAgfSk7DQogICAgfQ0KICAgIA0KICAgIC8vIOWoo+ivsuWnnualguaouueXiUtleemNkueZv2V0YS1kYXRhDQogICAgaWYgKCFhcHBbJ21ldGEtZGF0YSddKSB7DQogICAgICBhcHBbJ21ldGEtZGF0YSddID0gW107DQogICAgfQ0KICAgIGNvbnN0IGhhc0tleSA9IGFwcFsnbWV0YS1kYXRhJ10uc29tZShtID0+IG0uJFsnYW5kcm9pZDpuYW1lJ10gPT09ICdjb20uYW1hcC5hcGkudjIuYXBpa2V5Jyk7DQogICAgaWYgKCFoYXNLZXkpIHsNCiAgICAgIGFwcFsnbWV0YS1kYXRhJ10ucHVzaCh7DQogICAgICAgICQ6IHsNCiAgICAgICAgICAnYW5kcm9pZDpuYW1lJzogJ2NvbS5hbWFwLmFwaS52Mi5hcGlrZXknLA0KICAgICAgICAgICdhbmRyb2lkOnZhbHVlJzogYXBpS2V5DQogICAgICAgIH0NCiAgICAgIH0pOw0KICAgIH0NCiAgICANCiAgICByZXR1cm4gY29uZmlnOw0KICB9KTsNCg0KICAvLyAyLiDmt4fuhr3mlbwgcHJvamVjdCBidWlsZC5ncmFkbGUg5aij6K+y5aee5qWC5qi655eJ5rWg5pKz57CxDQogIGNvbmZpZyA9IHdpdGhQcm9qZWN0QnVpbGRHcmFkbGUoY29uZmlnLCAoY29uZmlnKSA9PiB7DQogICAgaWYgKCFjb25maWcubW9kUmVzdWx0cy5jb250ZW50cy5pbmNsdWRlcygnYW1hcCcpKSB7DQogICAgICBjb25maWcubW9kUmVzdWx0cy5jb250ZW50cyA9IGNvbmZpZy5tb2RSZXN1bHRzLmNvbnRlbnRzLnJlcGxhY2UoDQogICAgICAgIC9hbGxwcm9qZWN0c1xzKlx7LywNCiAgICAgICAgYGFsbHByb2plY3RzIHsNCiAgICByZXBvc2l0b3JpZXMgew0KICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9tYXZlbi5hbGl5dW4uY29tL3JlcG9zaXRvcnkvcHVibGljJyB9DQogICAgICAgIG1hdmVuIHsgdXJsICdodHRwczovL21hdmVuLmFsaXl1bi5jb20vcmVwb3NpdG9yeS9nb29nbGUnIH0NCiAgICB9YA0KICAgICAgKTsNCiAgICB9DQogICAgcmV0dXJuIGNvbmZpZzsNCiAgfSk7DQoNCiAgLy8gMy4g5reH7oa95pW8IGFwcCBidWlsZC5ncmFkbGUg5aij6K+y5aee5qWC5qi655eJ5ria5r+K56aGDQogIGNvbmZpZyA9IHdpdGhBcHBCdWlsZEdyYWRsZShjb25maWcsIChjb25maWcpID0+IHsNCiAgICBpZiAoIWNvbmZpZy5tb2RSZXN1bHRzLmNvbnRlbnRzLmluY2x1ZGVzKCdhbWFwLWxvY2F0aW9uJykpIHsNCiAgICAgIGNvbmZpZy5tb2RSZXN1bHRzLmNvbnRlbnRzID0gY29uZmlnLm1vZFJlc3VsdHMuY29udGVudHMucmVwbGFjZSgNCiAgICAgICAgL2RlcGVuZGVuY2llc1xzKlx7LywNCiAgICAgICAgYGRlcGVuZGVuY2llcyB7DQogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbWFwLmFwaTpsb2NhdGlvbjpsYXRlc3QuaW50ZWdyYXRpb24nYA0KICAgICAgKTsNCiAgICB9DQogICAgcmV0dXJuIGNvbmZpZzsNCiAgfSk7DQoNCiAgcmV0dXJuIGNvbmZpZzsNCn07DQoNCm1vZHVsZS5leHBvcnRzID0gd2l0aEFtYXBMb2NhdGlvbjsNCg==
+const { withAndroidManifest, withProjectBuildGradle, withAppBuildGradle } = require('@expo/config-plugins');
+
+const withAmapLocation = (config, { apiKey }) => {
+  // 1. 淇敼 AndroidManifest.xml 娣诲姞楂樺痉Key鍜屾潈闄?
+  config = withAndroidManifest(config, (config) => {
+    const manifest = config.modResults.manifest;
+    const app = manifest.application[0];
+    
+    // 娣诲姞楂樺痉瀹氫綅鏈嶅姟澹版槑
+    if (!app.service) {
+      app.service = [];
+    }
+    const hasService = app.service.some(s => s.$['android:name'] === 'com.amap.api.location.APSService');
+    if (!hasService) {
+      app.service.push({
+        $: {
+          'android:name': 'com.amap.api.location.APSService',
+          'android:enabled': 'true',
+          'android:exported': 'false'
+        }
+      });
+    }
+    
+    // 娣诲姞楂樺痉Key鍒癿eta-data
+    if (!app['meta-data']) {
+      app['meta-data'] = [];
+    }
+    const hasKey = app['meta-data'].some(m => m.$['android:name'] === 'com.amap.api.v2.apikey');
+    if (!hasKey) {
+      app['meta-data'].push({
+        $: {
+          'android:name': 'com.amap.api.v2.apikey',
+          'android:value': apiKey
+        }
+      });
+    }
+    
+    return config;
+  });
+
+  // 2. 淇敼 project build.gradle 娣诲姞楂樺痉浠撳簱
+  config = withProjectBuildGradle(config, (config) => {
+    if (!config.modResults.contents.includes('amap')) {
+      config.modResults.contents = config.modResults.contents.replace(
+        /allprojects\s*\{/,
+        `allprojects {
+    repositories {
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+    }`
+      );
+    }
+    return config;
+  });
+
+  // 3. 淇敼 app build.gradle 娣诲姞楂樺痉渚濊禆
+  config = withAppBuildGradle(config, (config) => {
+    if (!config.modResults.contents.includes('amap-location')) {
+      config.modResults.contents = config.modResults.contents.replace(
+        /dependencies\s*\{/,
+        `dependencies {
+    implementation 'com.amap.api:location:latest.integration'`
+      );
+    }
+    return config;
+  });
+
+  return config;
+};
+
+module.exports = withAmapLocation;
