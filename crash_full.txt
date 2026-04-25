@@ -1,0 +1,32 @@
+﻿04-25 07:28:02.151 20544 20544 E AndroidRuntime: FATAL EXCEPTION: main
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: Process: com.anonymous.GuardianNew, PID: 20544
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: java.lang.NoClassDefFoundError: Failed resolution of: Lexpo/modules/core/ModulePriorities;
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ExpoModulesPackage$packageList_delegate$lambda$1$$inlined$sortedByDescending$1.compare(Comparisons.kt:122)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.util.TimSort.countRunAndMakeAscending(TimSort.java:355)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.util.TimSort.sort(TimSort.java:220)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1432)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at kotlin.collections.ArraysKt___ArraysJvmKt.sortWith(_ArraysJvm.kt:2188)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at kotlin.collections.CollectionsKt___CollectionsKt.sortedWith(_Collections.kt:1089)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ExpoModulesPackage.packageList_delegate$lambda$1(ExpoModulesPackage.kt:43)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ExpoModulesPackage.$r8$lambda$QFBV9-FY5jLEWS4oBZ76Yb8QIkI(Unknown Source:0)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ExpoModulesPackage$$ExternalSyntheticLambda0.invoke(D8$$SyntheticClass:0)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:83)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ExpoModulesPackage$Companion.getPackageList(ExpoModulesPackage.kt:21)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ApplicationLifecycleDispatcher.getCachedListeners(ApplicationLifecycleDispatcher.kt:13)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at expo.modules.ApplicationLifecycleDispatcher.onApplicationCreate(ApplicationLifecycleDispatcher.kt:20)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at com.anonymous.GuardianNew.MainApplication.onCreate(MainApplication.kt:38)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1119)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:5877)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.app.ActivityThread.-wrap1(Unknown Source:0)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1690)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:105)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:173)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:6698)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at com.android.internal.os.Zygote$MethodAndArgsCaller.run(Zygote.java:240)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:782)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: Caused by: java.lang.ClassNotFoundException: Didn't find class "expo.modules.core.ModulePriorities" on path: DexPathList[[zip file "/data/app/com.anonymous.GuardianNew-CnZCxYD7OwJZx108QDa_fg==/base.apk"],nativeLibraryDirectories=[/data/app/com.anonymous.GuardianNew-CnZCxYD7OwJZx108QDa_fg==/lib/arm64, /data/app/com.anonymous.GuardianNew-CnZCxYD7OwJZx108QDa_fg==/base.apk!/lib/arm64-v8a, /system/lib64, /system/vendor/lib64]]
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:93)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:379)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+04-25 07:28:02.151 20544 20544 E AndroidRuntime: 	... 24 more
