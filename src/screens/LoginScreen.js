@@ -1,1 +1,135 @@
-Ly8gc3JjL3NjcmVlbnMvTG9naW5TY3JlZW4uanMgLSDpkKfor7Lnto3pkKPlsoTmvbAKaW1wb3J0IFJlYWN0LCB7IHVzZVN0YXRlIH0gZnJvbSAncmVhY3QnOwppbXBvcnQgeyBWaWV3LCBUZXh0LCBUZXh0SW5wdXQsIFRvdWNoYWJsZU9wYWNpdHksIFN0eWxlU2hlZXQsIEFsZXJ0IH0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmNvbnN0IExvZ2luU2NyZWVuID0gKHsgb25Mb2dpbiB9KSA9PiB7CiAgY29uc3QgW3VzZXJJZCwgc2V0VXNlcklkXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbbmlja25hbWUsIHNldE5pY2tuYW1lXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbcm9sZSwgc2V0Um9sZV0gPSB1c2VTdGF0ZSgndHJhY2tlZCcpOwoKICBjb25zdCBoYW5kbGVMb2dpbiA9ICgpID0+IHsKICAgIGlmICghdXNlcklkLnRyaW0oKSkgewogICAgICBBbGVydC5hbGVydCgn6Y675oSu44GaJywgJ+eSh+eWr+e3remNj+ODp+aVpOmOtOeoqUQnKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgb25Mb2dpbih7IHVzZXJJZDogdXNlcklkLnRyaW0oKSwgbmlja25hbWU6IG5pY2tuYW1lLnRyaW0oKSB8fCB1c2VySWQsIHJvbGUgfSk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfT4KICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50aXRsZX0+54C55aCf5aei6Y+EPy9UZXh0PgogICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnN1YnRpdGxlfT7pjrXlrKvmuoDngLnmsKvntoXmnZ7uiJnmrKI8L1RleHQ+CgogICAgICA8VGV4dElucHV0CiAgICAgICAgc3R5bGU9e3N0eWxlcy5pbnB1dH0KICAgICAgICBwbGFjZWhvbGRlcj0i6ZCi44Sm5Z+bSUTplJvloKLmlaTmtZzluqPnsqbngLnmsL7ntJoiCiAgICAgICAgdmFsdWU9e3VzZXJJZH0KICAgICAgICBvbkNoYW5nZVRleHQ9e3NldFVzZXJJZH0KICAgICAgICBhdXRvQ2FwaXRhbGl6ZT0ibm9uZSIKICAgICAgLz4KICAgICAgPFRleHRJbnB1dAogICAgICAgIHN0eWxlPXtzdHlsZXMuaW5wdXR9CiAgICAgICAgcGxhY2Vob2xkZXI9IumPhOeUtdCe6ZSb5aCd5b2y6Zar5aSb57SaIgogICAgICAgIHZhbHVlPXtuaWNrbmFtZX0KICAgICAgICBvbkNoYW5nZVRleHQ9e3NldE5pY2tuYW1lfQogICAgICAvPgoKICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5yb2xlU2VsZWN0b3J9PgogICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICBzdHlsZT17W3N0eWxlcy5yb2xlQnRuLCByb2xlID09PSAndHJhY2tlZCcgJiYgc3R5bGVzLnJvbGVCdG5BY3RpdmVdfQogICAgICAgICAgb25QcmVzcz17KCkgPT4gc2V0Um9sZSgndHJhY2tlZCcpfQogICAgICAgID4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtbc3R5bGVzLnJvbGVUZXh0LCByb2xlID09PSAndHJhY2tlZCcgJiYgc3R5bGVzLnJvbGVUZXh0QWN0aXZlXX0+54C55rCr57aF57uUPy9UZXh0PgogICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5yb2xlRGVzY30+55Ca7oKi55Wn6Y6244KH5q6R6Y615ayr5rqAPC9UZXh0PgogICAgICAgIDwvVG91Y2hhYmxlT3BhY2l0eT4KICAgICAgICA8VG91Y2hhYmxlT3BhY2l0eQogICAgICAgICAgc3R5bGU9e1tzdHlsZXMucm9sZUJ0biwgcm9sZSA9PT0gJ2d1YXJkaWFuJyAmJiBzdHlsZXMucm9sZUJ0bkFjdGl2ZV19CiAgICAgICAgICBvblByZXNzPXsoKSA9PiBzZXRSb2xlKCdndWFyZGlhbicpfQogICAgICAgID4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtbc3R5bGVzLnJvbGVUZXh0LCByb2xlID09PSAnZ3VhcmRpYW4nICYmIHN0eWxlcy5yb2xlVGV4dEFjdGl2ZV19PueAueWgn+Wnoue7lD8vVGV4dD4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMucm9sZURlc2N9PumPjOODp+a5hea1o+W2h+eWhumQqOWLrOWinOmPiD8vVGV4dD4KICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgICAgIDwvVmlldz4KCiAgICAgIDxUb3VjaGFibGVPcGFjaXR5IHN0eWxlPXtzdHlsZXMubG9naW5CdG59IG9uUHJlc3M9e2hhbmRsZUxvZ2lufT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmxvZ2luQnRuVGV4dH0+5p2p5raY5Y+GPC9UZXh0PgogICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgICA8L1ZpZXc+CiAgKTsKfTsKCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIGZsZXg6IDEsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIHBhZGRpbmc6IDI0LAogICAgYmFja2dyb3VuZENvbG9yOiAnI2Y4ZjlmYScsCiAgfSwKICB0aXRsZTogewogICAgZm9udFNpemU6IDM2LAogICAgZm9udFdlaWdodDogJ2JvbGQnLAogICAgY29sb3I6ICcjNENBRjUwJywKICB9LAogIHN1YnRpdGxlOiB7CiAgICBmb250U2l6ZTogMTYsCiAgICBjb2xvcjogJyM2NjYnLAogICAgbWFyZ2luQm90dG9tOiAzMiwKICB9LAogIGlucHV0OiB7CiAgICB3aWR0aDogJzEwMCUnLAogICAgaGVpZ2h0OiA1MCwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYm9yZGVyUmFkaXVzOiAxMCwKICAgIHBhZGRpbmdIb3Jpem9udGFsOiAxNiwKICAgIG1hcmdpbkJvdHRvbTogMTYsCiAgICBmb250U2l6ZTogMTYsCiAgfSwKICByb2xlU2VsZWN0b3I6IHsKICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAgZ2FwOiAxMiwKICAgIG1hcmdpblZlcnRpY2FsOiAxNiwKICB9LAogIHJvbGVCdG46IHsKICAgIGZsZXg6IDEsCiAgICBwYWRkaW5nOiAxNiwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYm9yZGVyUmFkaXVzOiAxMiwKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYm9yZGVyV2lkdGg6IDIsCiAgICBib3JkZXJDb2xvcjogJyNkZGQnLAogIH0sCiAgcm9sZUJ0bkFjdGl2ZTogewogICAgYm9yZGVyQ29sb3I6ICcjNENBRjUwJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNFOEY1RTknLAogIH0sCiAgcm9sZVRleHQ6IHsKICAgIGZvbnRTaXplOiAxOCwKICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgIGNvbG9yOiAnIzMzMycsCiAgfSwKICByb2xlVGV4dEFjdGl2ZTogewogICAgY29sb3I6ICcjNENBRjUwJywKICB9LAogIHJvbGVEZXNjOiB7CiAgICBmb250U2l6ZTogMTIsCiAgICBjb2xvcjogJyM5OTknLAogICAgbWFyZ2luVG9wOiA0LAogIH0sCiAgbG9naW5CdG46IHsKICAgIHdpZHRoOiAnMTAwJScsCiAgICBoZWlnaHQ6IDUwLAogICAgYmFja2dyb3VuZENvbG9yOiAnIzRDQUY1MCcsCiAgICBib3JkZXJSYWRpdXM6IDEwLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBtYXJnaW5Ub3A6IDI0LAogIH0sCiAgbG9naW5CdG5UZXh0OiB7CiAgICBjb2xvcjogJyNmZmYnLAogICAgZm9udFNpemU6IDE4LAogICAgZm9udFdlaWdodDogJ2JvbGQnLAogIH0sCn0pOwoKZXhwb3J0IGRlZmF1bHQgTG9naW5TY3JlZW47
+// src/screens/LoginScreen.js - 鐧诲綍鐣岄潰
+import React, { useState } from 'react';
+import { View, Text, TextInput, TouchableOpacity, StyleSheet, Alert } from 'react-native';
+
+const LoginScreen = ({ onLogin }) => {
+  const [userId, setUserId] = useState('');
+  const [nickname, setNickname] = useState('');
+  const [role, setRole] = useState('tracked');
+
+  const handleLogin = () => {
+    if (!userId.trim()) {
+      Alert.alert('鎻愮ず', '璇疯緭鍏ョ敤鎴稩D');
+      return;
+    }
+    onLogin({ userId: userId.trim(), nickname: nickname.trim() || userId, role });
+  };
+
+  return (
+    <View style={styles.container}>
+      <Text style={styles.title}>瀹堟姢鏄?/Text>
+      <Text style={styles.subtitle}>鎵嬫満瀹氫綅杞欢</Text>
+
+      <TextInput
+        style={styles.input}
+        placeholder="鐢ㄦ埛ID锛堢敤浜庣粦瀹氾級"
+        value={userId}
+        onChangeText={setUserId}
+        autoCapitalize="none"
+      />
+      <TextInput
+        style={styles.input}
+        placeholder="鏄电О锛堝彲閫夛級"
+        value={nickname}
+        onChangeText={setNickname}
+      />
+
+      <View style={styles.roleSelector}>
+        <TouchableOpacity
+          style={[styles.roleBtn, role === 'tracked' && styles.roleBtnActive]}
+          onPress={() => setRole('tracked')}
+        >
+          <Text style={[styles.roleText, role === 'tracked' && styles.roleTextActive]}>瀹氫綅绔?/Text>
+          <Text style={styles.roleDesc}>琚畧鎶ょ殑鎵嬫満</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.roleBtn, role === 'guardian' && styles.roleBtnActive]}
+          onPress={() => setRole('guardian')}
+        >
+          <Text style={[styles.roleText, role === 'guardian' && styles.roleTextActive]}>瀹堟姢绔?/Text>
+          <Text style={styles.roleDesc}>鏌ョ湅浣嶇疆鐨勬墜鏈?/Text>
+        </TouchableOpacity>
+      </View>
+
+      <TouchableOpacity style={styles.loginBtn} onPress={handleLogin}>
+        <Text style={styles.loginBtnText}>杩涘叆</Text>
+      </TouchableOpacity>
+    </View>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 24,
+    backgroundColor: '#f8f9fa',
+  },
+  title: {
+    fontSize: 36,
+    fontWeight: 'bold',
+    color: '#4CAF50',
+  },
+  subtitle: {
+    fontSize: 16,
+    color: '#666',
+    marginBottom: 32,
+  },
+  input: {
+    width: '100%',
+    height: 50,
+    backgroundColor: '#fff',
+    borderRadius: 10,
+    paddingHorizontal: 16,
+    marginBottom: 16,
+    fontSize: 16,
+  },
+  roleSelector: {
+    flexDirection: 'row',
+    gap: 12,
+    marginVertical: 16,
+  },
+  roleBtn: {
+    flex: 1,
+    padding: 16,
+    backgroundColor: '#fff',
+    borderRadius: 12,
+    alignItems: 'center',
+    borderWidth: 2,
+    borderColor: '#ddd',
+  },
+  roleBtnActive: {
+    borderColor: '#4CAF50',
+    backgroundColor: '#E8F5E9',
+  },
+  roleText: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#333',
+  },
+  roleTextActive: {
+    color: '#4CAF50',
+  },
+  roleDesc: {
+    fontSize: 12,
+    color: '#999',
+    marginTop: 4,
+  },
+  loginBtn: {
+    width: '100%',
+    height: 50,
+    backgroundColor: '#4CAF50',
+    borderRadius: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 24,
+  },
+  loginBtnText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+});
+
+export default LoginScreen;
