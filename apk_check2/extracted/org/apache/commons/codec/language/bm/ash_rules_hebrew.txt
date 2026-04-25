@@ -1,0 +1,62 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// Ashkenazic
+
+"讗讬" "" "" "i"
+"注讬" "" "" "i"
+"注讜" "" "" "VV"
+"讗讜" "" "" "VV"
+    
+"讙壮" "" "" "Z"
+"讚壮" "" "" "dZ"
+        
+"讗" "" "" "L"
+"讘" "" "" "b"
+"讙" "" "" "g"
+"讚" "" "" "d"
+    
+"讛" "^" "" "1"
+"讛" "" "$" "1"
+"讛" "" "" ""
+    
+"讜讜" "" "" "V"
+"讜讬" "" "" "WW"
+"讜" "" "" "W"
+"讝" "" "" "z"
+"讞" "" "" "X"
+"讟" "" "" "T"
+"讬讬" "" "" "i"
+"讬" "" "" "i"
+"讱" "" "" "X"
+"讻" "^" "" "K"
+"讻" "" "" "k"
+"诇" "" "" "l"
+"诐" "" "" "m"
+"诪" "" "" "m"
+"谉" "" "" "n"
+"谞" "" "" "n"
+"住" "" "" "s"
+"注" "" "" "L"
+"祝" "" "" "f"
+"驻" "" "" "f"
+"抓" "" "" "C"
+"爪" "" "" "C"
+"拽" "" "" "K"
+"专" "" "" "r"
+"砖" "" "" "s"
+"转" "" "" "TB" // only Ashkenazic
