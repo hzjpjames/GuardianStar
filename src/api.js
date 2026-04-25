@@ -1,1 +1,56 @@
-Ly8gc3JjL2FwaS5qcyAtIOmPiO6EgOa5tOmNmuW6o+6BrCBBUEkKCi8vIEFQSyDpkKnno4vnuZvngZ7igqzpjannhrrntonpjZrluqPugazplJvlnbJzZXNDbGVhcnRleHRUcmFmZmljIOWuuOafpeWOpOe8g+6Hhue0mgovLyBFeHBvIEdvIOWotOWsreeYr+mPg+iIteaVvOmNpT9uZ3JvayBVUkwKLy8gQVBLIOmQoj9IVFRQ6ZSb5Z2yc2VzQ2xlYXJ0ZXh0VHJhZmZpYyDlrrjmj5LntJHpjZruiKTntJrplJvlrY14cG8gR28g6Y2a5bG+54mx6Y2Z7oic5pWkCmNvbnN0IFNFUlZFUl9VUkwgPSAnaHR0cDovLzE5Mi4xNjguMC4xMjM6MzAwMCc7Ci8vIEhUVFBTIOmRt+6Bhu6Et+mNmuW2iOeYiea2lD9SZWFjdCBOYXRpdmUg5raT5baE5L+K5rWg5LyZ57Sd5raT5baF57yT55KB7oa+5pWkCgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gbG9naW4odXNlcklkLCBuaWNrbmFtZSwgcm9sZSkgewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke1NFUlZFUl9VUkx9L2FwaS9sb2dpbmAsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHVzZXJJZCwgbmlja25hbWUsIHJvbGUgfSkKICB9KTsKICByZXR1cm4gcmVzLmpzb24oKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlcG9ydExvY2F0aW9uKHVpZCwgbG9jYXRpb24pIHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtTRVJWRVJfVVJMfS9hcGkvbG9jYXRpb25gLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyB1aWQsIC4uLmxvY2F0aW9uIH0pCiAgfSk7CiAgcmV0dXJuIHJlcy5qc29uKCk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRMb2NhdGlvbih1aWQpIHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtTRVJWRVJfVVJMfS9hcGkvbG9jYXRpb24vJHt1aWR9YCk7CiAgcmV0dXJuIHJlcy5qc29uKCk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRIaXN0b3J5KHVpZCwgaG91cnMgPSAyNCkgewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke1NFUlZFUl9VUkx9L2FwaS9oaXN0b3J5LyR7dWlkfT9ob3Vycz0ke2hvdXJzfWApOwogIHJldHVybiByZXMuanNvbigpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gY3JlYXRlQmluZGluZyhndWFyZGlhblVpZCwgdHJhY2tlZFVpZCwgbmlja25hbWUpIHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtTRVJWRVJfVVJMfS9hcGkvYmluZGAsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGd1YXJkaWFuVWlkLCB0cmFja2VkVWlkLCBuaWNrbmFtZSB9KQogIH0pOwogIHJldHVybiByZXMuanNvbigpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0QmluZGluZ3ModWlkKSB7CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7U0VSVkVSX1VSTH0vYXBpL2JpbmRpbmdzLyR7dWlkfWApOwogIHJldHVybiByZXMuanNvbigpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcmVtb3ZlQmluZGluZyhiaW5kaW5nSWQpIHsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtTRVJWRVJfVVJMfS9hcGkvYmluZC8ke2JpbmRpbmdJZH1gLCB7CiAgICBtZXRob2Q6ICdERUxFVEUnCiAgfSk7CiAgcmV0dXJuIHJlcy5qc29uKCk7Cn0=
+// src/api.js - 鏈湴鍚庣 API
+
+// APK 鐩磋繛灞€鍩熺綉鍚庣锛坲sesCleartextTraffic 宸查厤缃級
+// Expo Go 娴嬭瘯鏃舵敼鍥?ngrok URL
+// APK 鐢?HTTP锛坲sesCleartextTraffic 宸插紑鍚級锛孍xpo Go 鍚屾牱鍙敤
+const SERVER_URL = 'http://192.168.0.123:3000';
+// HTTPS 鑷鍚嶈瘉涔?React Native 涓嶄俊浠伙紝涓嶅缓璁敤
+
+export async function login(userId, nickname, role) {
+  const res = await fetch(`${SERVER_URL}/api/login`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ userId, nickname, role })
+  });
+  return res.json();
+}
+
+export async function reportLocation(uid, location) {
+  const res = await fetch(`${SERVER_URL}/api/location`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ uid, ...location })
+  });
+  return res.json();
+}
+
+export async function getLocation(uid) {
+  const res = await fetch(`${SERVER_URL}/api/location/${uid}`);
+  return res.json();
+}
+
+export async function getHistory(uid, hours = 24) {
+  const res = await fetch(`${SERVER_URL}/api/history/${uid}?hours=${hours}`);
+  return res.json();
+}
+
+export async function createBinding(guardianUid, trackedUid, nickname) {
+  const res = await fetch(`${SERVER_URL}/api/bind`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ guardianUid, trackedUid, nickname })
+  });
+  return res.json();
+}
+
+export async function getBindings(uid) {
+  const res = await fetch(`${SERVER_URL}/api/bindings/${uid}`);
+  return res.json();
+}
+
+export async function removeBinding(bindingId) {
+  const res = await fetch(`${SERVER_URL}/api/bind/${bindingId}`, {
+    method: 'DELETE'
+  });
+  return res.json();
+}
