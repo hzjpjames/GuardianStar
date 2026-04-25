@@ -1,0 +1,97 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+"伪蠀" "" "$" "af"  // "av" before vowels and voiced consonants, "af" elsewhere
+"伪蠀" "" "(魏|蟺|蟽|蟿|蠁|胃|蠂|蠄)" "af" 
+"伪蠀" "" "" "av" 
+"蔚蠀" "" "$" "ef" // "ev" before vowels and voiced consonants, "ef" elsewhere
+"蔚蠀" "" "(魏|蟺|蟽|蟿|蠁|胃|蠂|蠄)" "ef" 
+"蔚蠀" "" "" "ev" 
+"畏蠀" "" "$" "if" // "iv" before vowels and voiced consonants, "if" elsewhere
+"畏蠀" "" "(魏|蟺|蟽|蟿|蠁|胃|蠂|蠄)" "if" 
+"畏蠀" "" "" "iv" 
+"慰蠀" "" "" "u"  // [u:]
+
+"伪喂" "" "" "aj"  // modern [e]
+"蔚喂" "" "" "ej" // modern [i]
+"慰喂" "" "" "oj" // modern [i]
+"蠅喂" "" "" "oj" 
+"畏喂" "" "" "ej" 
+"蠀喂" "" "" "i" // modern Greek "i"
+
+"纬纬" "(蔚|喂|畏|伪|慰|蠅|蠀)" "(蔚|喂|畏)" "(nj|j)"
+"纬纬" "" "(蔚|喂|畏)" "j"
+"纬纬" "(蔚|喂|畏|伪|慰|蠅|蠀)" "" "(ng|g)"
+"纬纬" "" "" "g" 
+"纬魏" "^" "" "g"
+"纬魏" "(蔚|喂|畏|伪|慰|蠅|蠀)" "(蔚|喂|畏)" "(nj|j)"
+"纬魏" "" "(蔚|喂|畏)" "j"
+"纬魏" "(蔚|喂|畏|伪|慰|蠅|蠀)" "" "(ng|g)"
+"纬魏" "" "" "g" 
+"纬喂" "" "(伪|慰|蠅|蠀)" "j"
+"纬喂" "" "" "(gi|i)"
+"纬蔚" "" "(伪|慰|蠅|蠀)" "j"
+"纬蔚" "" "" "(ge|je)"
+
+"魏味" "" "" "gz"
+"蟿味" "" "" "dz"
+"蟽" "" "(尾|纬|未|渭|谓|蟻)" "z"
+
+"渭尾" "" "" "(mb|b)"
+"渭蟺" "^" "" "b"
+"渭蟺" "(蔚|喂|畏|伪|慰|蠅|蠀)" "" "mb"
+"渭蟺" "" "" "b" // after any consonant
+"谓蟿" "^" "" "d"
+"谓蟿" "(蔚|喂|畏|伪|慰|蠅|蠀)" "" "(nd|nt)" // Greek is "nd" 
+"谓蟿" "" "" "(nt|d)" // Greek is "d" after any consonant
+
+"维" "" "" "a"
+"苇" "" "" "e"
+"萎" "" "" "(i|e)" 
+"委" "" "" "i"   
+"蠈" "" "" "o"
+"蠉" "" "" "(Q|i|u)"
+"蠋" "" "" "o"
+"伟" "" "" "(Q|i|u)"
+"蠇" "" "" "(Q|i|u)"
+"蠆" "" "" "j"
+
+"伪" "" "" "a"
+"尾" "" "" "(v|b)" // modern "v", old "b"
+"纬" "" "" "g" 
+"未" "" "" "d"    // modern like "th" in English "them", old "d"
+"蔚" "" "" "e"
+"味" "" "" "z"
+"畏" "" "" "(i|e)" // modern "i", old "e:"
+"喂" "" "" "i"
+"魏" "" "" "k"
+"位" "" "" "l"
+"渭" "" "" "m"
+"谓" "" "" "n"
+"尉" "" "" "ks"
+"慰" "" "" "o"
+"蟺" "" "" "p"
+"蟻" "" "" "r"
+"蟽" "" "" "s"
+"蟼" "" "" "s"
+"蟿" "" "" "t" 
+"蠀" "" "" "(Q|i|u)" // modern "i", old like German "眉"
+"蠁" "" "" "f" 
+"胃" "" "" "t" // old greek like "th" in English "theme"
+"蠂" "" "" "x"
+"蠄" "" "" "ps"
+"蠅" "" "" "o"
