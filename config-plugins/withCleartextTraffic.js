@@ -1,1 +1,58 @@
-Ly8g6ZG37oGE55W+5raUP0NvbmZpZyBQbHVnaW7plJvmsLHmlZPpjrQ/bmV0d29ya19zZWN1cml0eV9jb25maWcueG1sIOmqnuiIteaVnumNkOWxveWfjCBtYW5pZmVzdApjb25zdCB7IHdpdGhBbmRyb2lkTWFuaWZlc3QsIHdpdGhEYW5nZXJvdXNNb2QgfSA9IHJlcXVpcmUoJ2V4cG8vY29uZmlnLXBsdWdpbnMnKTsKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgTkVUV09SS19TRUNVUklUWV9DT05GSUcgPSBgPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG5ldHdvcmstc2VjdXJpdHktY29uZmlnPgogICAgPGJhc2UtY29uZmlnIGNsZWFydGV4dFRyYWZmaWNQZXJtaXR0ZWQ9InRydWUiPgogICAgICAgIDx0cnVzdC1hbmNob3JzPgogICAgICAgICAgICA8Y2VydGlmaWNhdGVzIHNyYz0ic3lzdGVtIiAvPgogICAgICAgIDwvdHJ1c3QtYW5jaG9ycz4KICAgIDwvYmFzZS1jb25maWc+CiAgICA8ZG9tYWluLWNvbmZpZyBjbGVhcnRleHRUcmFmZmljUGVybWl0dGVkPSJ0cnVlIj4KICAgICAgICA8ZG9tYWluIGluY2x1ZGVTdWJkb21haW5zPSJ0cnVlIj4xOTIuMTY4LjAuMDwvZG9tYWluPgogICAgICAgIDxkb21haW4gaW5jbHVkZVN1YmRvbWFpbnM9InRydWUiPjE5Mi4xNjguMS4wPC9kb21haW4+CiAgICAgICAgPGRvbWFpbiBpbmNsdWRlU3ViZG9tYWlucz0idHJ1ZSI+MTAuMC4wLjA8L2RvbWFpbj4KICAgICAgICA8ZG9tYWluIGluY2x1ZGVTdWJkb21haW5zPSJ0cnVlIj5sb2NhbGhvc3Q8L2RvbWFpbj4KICAgIDwvZG9tYWluLWNvbmZpZz4KPC9uZXR3b3JrLXNlY3VyaXR5LWNvbmZpZz4KYDsKCm1vZHVsZS5leHBvcnRzID0gZnVuY3Rpb24gd2l0aENsZWFydGV4dFRyYWZmaWMoY29uZmlnKSB7CiAgLy8gU3RlcCAxOiDpkKLnhrjlnpogbmV0d29ya19zZWN1cml0eV9jb25maWcueG1sIOmPguWbpuasogogIGNvbmZpZyA9IHdpdGhEYW5nZXJvdXNNb2QoY29uZmlnLCBbCiAgICAnYW5kcm9pZCcsCiAgICBhc3luYyAoY29uZmlnKSA9PiB7CiAgICAgIGNvbnN0IHhtbERpciA9IHBhdGguam9pbihjb25maWcubW9kUmVxdWVzdC5wbGF0Zm9ybVByb2plY3RSb290LCAnYXBwJywgJ3NyYycsICdtYWluJywgJ3JlcycsICd4bWwnKTsKICAgICAgY29uc3QgeG1sUGF0aCA9IHBhdGguam9pbih4bWxEaXIsICduZXR3b3JrX3NlY3VyaXR5X2NvbmZpZy54bWwnKTsKCiAgICAgIGlmICghZnMuZXhpc3RzU3luYyh4bWxEaXIpKSB7CiAgICAgICAgZnMubWtkaXJTeW5jKHhtbERpciwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgICAgIH0KICAgICAgZnMud3JpdGVGaWxlU3luYyh4bWxQYXRoLCBORVRXT1JLX1NFQ1VSSVRZX0NPTkZJRywgJ3V0ZjgnKTsKICAgICAgY29uc29sZS5sb2coJ1t3aXRoQ2xlYXJ0ZXh0VHJhZmZpY10gV3JvdGUgbmV0d29ya19zZWN1cml0eV9jb25maWcueG1sIHRvOicsIHhtbFBhdGgpOwoKICAgICAgcmV0dXJuIGNvbmZpZzsKICAgIH0sCiAgXSk7CgogIC8vIFN0ZXAgMjog5reH7oa95pW8IEFuZHJvaWRNYW5pZmVzdC54bWwKICBjb25maWcgPSB3aXRoQW5kcm9pZE1hbmlmZXN0KGNvbmZpZywgKGNvbmZpZykgPT4gewogICAgY29uc3QgbWFuaWZlc3QgPSBjb25maWcubW9kUmVzdWx0czsKICAgIC8vIEV4cG8gU0RLIDU1OiBhcHBsaWNhdGlvbiBpcyBhbiBhcnJheQogICAgY29uc3QgYXBwID0gQXJyYXkuaXNBcnJheShtYW5pZmVzdC5hcHBsaWNhdGlvbikgPyBtYW5pZmVzdC5hcHBsaWNhdGlvblswXSA6IG1hbmlmZXN0LmFwcGxpY2F0aW9uOwoKICAgIGlmIChhcHAgJiYgYXBwLiQpIHsKICAgICAgYXBwLiRbJ2FuZHJvaWQ6dXNlc0NsZWFydGV4dFRyYWZmaWMnXSA9ICd0cnVlJzsKICAgICAgYXBwLiRbJ2FuZHJvaWQ6bmV0d29ya1NlY3VyaXR5Q29uZmlnJ10gPSAnQHhtbC9uZXR3b3JrX3NlY3VyaXR5X2NvbmZpZyc7CiAgICAgIGNvbnNvbGUubG9nKCdbd2l0aENsZWFydGV4dFRyYWZmaWNdIFVwZGF0ZWQgQW5kcm9pZE1hbmlmZXN0LnhtbDogdXNlc0NsZWFydGV4dFRyYWZmaWM9dHJ1ZSwgbmV0d29ya1NlY3VyaXR5Q29uZmlnPUB4bWwvbmV0d29ya19zZWN1cml0eV9jb25maWcnKTsKICAgIH0gZWxzZSB7CiAgICAgIGNvbnNvbGUud2FybignW3dpdGhDbGVhcnRleHRUcmFmZmljXSBDb3VsZCBub3QgZmluZCA8YXBwbGljYXRpb24+IGVsZW1lbnQgaW4gbWFuaWZlc3QhJyk7CiAgICB9CgogICAgcmV0dXJuIGNvbmZpZzsKICB9KTsKCiAgcmV0dXJuIGNvbmZpZzsKfTsK
+// 鑷畾涔?Config Plugin锛氱敓鎴?network_security_config.xml 骞舵敞鍐屽埌 manifest
+const { withAndroidManifest, withDangerousMod } = require('expo/config-plugins');
+const fs = require('fs');
+const path = require('path');
+
+const NETWORK_SECURITY_CONFIG = `<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.0.0</domain>
+        <domain includeSubdomains="true">192.168.1.0</domain>
+        <domain includeSubdomains="true">10.0.0.0</domain>
+        <domain includeSubdomains="true">localhost</domain>
+    </domain-config>
+</network-security-config>
+`;
+
+module.exports = function withCleartextTraffic(config) {
+  // Step 1: 鐢熸垚 network_security_config.xml 鏂囦欢
+  config = withDangerousMod(config, [
+    'android',
+    async (config) => {
+      const xmlDir = path.join(config.modRequest.platformProjectRoot, 'app', 'src', 'main', 'res', 'xml');
+      const xmlPath = path.join(xmlDir, 'network_security_config.xml');
+
+      if (!fs.existsSync(xmlDir)) {
+        fs.mkdirSync(xmlDir, { recursive: true });
+      }
+      fs.writeFileSync(xmlPath, NETWORK_SECURITY_CONFIG, 'utf8');
+      console.log('[withCleartextTraffic] Wrote network_security_config.xml to:', xmlPath);
+
+      return config;
+    },
+  ]);
+
+  // Step 2: 淇敼 AndroidManifest.xml
+  config = withAndroidManifest(config, (config) => {
+    const manifest = config.modResults;
+    // Expo SDK 55: application is an array
+    const app = Array.isArray(manifest.application) ? manifest.application[0] : manifest.application;
+
+    if (app && app.$) {
+      app.$['android:usesCleartextTraffic'] = 'true';
+      app.$['android:networkSecurityConfig'] = '@xml/network_security_config';
+      console.log('[withCleartextTraffic] Updated AndroidManifest.xml: usesCleartextTraffic=true, networkSecurityConfig=@xml/network_security_config');
+    } else {
+      console.warn('[withCleartextTraffic] Could not find <application> element in manifest!');
+    }
+
+    return config;
+  });
+
+  return config;
+};
