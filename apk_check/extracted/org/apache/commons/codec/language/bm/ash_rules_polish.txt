@@ -1,0 +1,185 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// Ashkenazic
+
+// CONVERTING FEMININE TO MASCULINE
+"ska" "" "$" "ski"   
+"cka" "" "$" "tski"   
+"lowa" "" "$" "(lova|lof|l|el)"   
+"kowa" "" "$" "(kova|kof|k|ek)"   
+"owa" "" "$" "(ova|of|)"  
+"lowna" "" "$" "(lovna|levna|l|el)" 
+"kowna" "" "$" "(kovna|k|ek)"  
+"owna" "" "$" "(ovna|)"   
+"l贸wna" "" "$" "(l|el)"   
+"k贸wna" "" "$" "(k|ek)"   
+"贸wna" "" "$" ""   
+"a" "" "$" "(a|i)"   
+
+ // CONSONANTS
+"czy" "" "" "tSi"
+"cze" "" "[bcdgkpstwz偶]" "(tSe|tSF)"
+"ciewicz" "" "" "(tsevitS|tSevitS)"
+"siewicz" "" "" "(sevitS|SevitS)"
+"ziewicz" "" "" "(zevitS|ZevitS)"
+"riewicz" "" "" "rjevitS" 
+"diewicz" "" "" "djevitS" 
+"tiewicz" "" "" "tjevitS" 
+"iewicz" "" "" "evitS"
+"ewicz" "" "" "evitS"
+"owicz" "" "" "ovitS"
+"icz" "" "" "itS"
+"cz" "" "" "tS"
+"ch" "" "" "x"
+    
+"cia" "" "[bcdgkpstwz偶]" "(tSB|tsB)" 
+"cia" "" "" "(tSa|tsa)" 
+"ci膮" "" "[bp]" "(tSom|tsom)"
+"ci膮" "" "" "(tSon|tson)"
+"ci臋" "" "[bp]" "(tSem|tsem)"
+"ci臋" "" "" "(tSen|tsen)"
+"cie" "" "[bcdgkpstwz偶]" "(tSF|tsF)" 
+"cie" "" "" "(tSe|tse)" 
+"cio" "" "" "(tSo|tso)" 
+"ciu" "" "" "(tSu|tsu)" 
+"ci" "" "" "(tSi|tsI)"
+"膰" "" "" "(tS|ts)"
+    
+"ssz" "" "" "S"
+"sz" "" "" "S"
+"sia" "" "[bcdgkpstwz偶]" "(SB|sB|sja)" 
+"sia" "" "" "(Sa|sja)" 
+"si膮" "" "[bp]" "(Som|som)"
+"si膮" "" "" "(Son|son)"
+"si臋" "" "[bp]" "(Sem|sem)"
+"si臋" "" "" "(Sen|sen)"
+"sie" "" "[bcdgkpstwz偶]" "(SF|sF|se)" 
+"sie" "" "" "(Se|se)" 
+"sio" "" "" "(So|so)" 
+"siu" "" "" "(Su|sju)" 
+"si" "" "" "(Si|sI)"
+"艣" "" "" "(S|s)"
+
+"zia" "" "[bcdgkpstwz偶]" "(ZB|zB|zja)" 
+"zia" "" "" "(Za|zja)" 
+"zi膮" "" "[bp]" "(Zom|zom)"
+"zi膮" "" "" "(Zon|zon)"
+"zi臋" "" "[bp]" "(Zem|zem)"
+"zi臋" "" "" "(Zen|zen)"
+"zie" "" "[bcdgkpstwz偶]" "(ZF|zF)"
+"zie" "" "" "(Ze|ze)" 
+"zio" "" "" "(Zo|zo)" 
+"ziu" "" "" "(Zu|zju)" 
+"zi" "" "" "(Zi|zI)"
+    
+"偶e" "" "[bcdgkpstwz偶]" "(Ze|ZF)"
+"偶e" "" "[bcdgkpstwz偶]" "(Ze|ZF|ze|zF)"
+"偶e" "" "" "Ze"
+"藕e" "" "" "(Ze|ze)"
+"偶y" "" "" "Zi"
+"藕i" "" "" "(Zi|zi)"
+"偶" "" "" "Z"
+"藕" "" "" "(Z|z)"
+    
+"rze" "t" "" "(Se|re)"
+"rze" "" "" "(Ze|re|rZe)"
+"rzy" "t" "" "(Si|ri)"
+"rzy" "" "" "(Zi|ri|rZi)"
+"rz" "t" "" "(S|r)"
+"rz" "" "" "(Z|r|rZ)"
+    
+"lio" "" "" "(lo|le)"
+"艂" "" "" "l"
+"艅" "" "" "n"
+"qu" "" "" "k"
+"s" "" "s" "" 
+    
+ // VOWELS   
+"贸" "" "" "(u|o)"
+"膮" "" "[bp]" "om"
+"臋" "" "[bp]" "em"
+"膮" "" "" "on"
+"臋" "" "" "en"
+   
+"ije" "" "" "je"
+"yje" "" "" "je"
+"iie" "" "" "je"
+"yie" "" "" "je"
+"iye" "" "" "je"
+"yye" "" "" "je"
+   
+"ij" "" "[aou]" "j"
+"yj" "" "[aou]" "j"
+"ii" "" "[aou]" "j"
+"yi" "" "[aou]" "j"
+"iy" "" "[aou]" "j"
+"yy" "" "[aou]" "j"
+   
+"rie" "" "" "rje" 
+"die" "" "" "dje" 
+"tie" "" "" "tje" 
+"ie" "" "[bcdgkpstwz偶]" "F" 
+"ie" "" "" "e"
+   
+"aue" "" "" "aue"
+"au" "" "" "au"
+   
+"ei" "" "" "aj"
+"ey" "" "" "aj"
+"ej" "" "" "aj"
+    
+"ai" "" "" "aj"
+"ay" "" "" "aj"
+"aj" "" "" "aj"
+    
+"i" "[ou]" "" "j" 
+"y" "[ou]" "" "j" 
+"i" "" "[aou]" "j"
+"y" "" "[aeou]" "j"
+       
+"a" "" "[bcdgkpstwz偶]" "B"
+"e" "" "[bcdgkpstwz偶]" "(E|F)" 
+"o" "" "[bc膰dgkl艂mn艅rs艣twz藕偶]" "P" 
+       
+// ALPHABET
+"a" "" "" "a"
+"b" "" "" "b"
+"c" "" "" "ts"
+"d" "" "" "d"
+"e" "" "" "E"
+"f" "" "" "f"
+"g" "" "" "g"
+"h" "" "" "(h|x)"
+"i" "" "" "I"
+"j" "" "" "j"
+"k" "" "" "k"
+"l" "" "" "l"
+"m" "" "" "m"
+"n" "" "" "n"
+"o" "" "" "o"
+"p" "" "" "p"
+"q" "" "" "k"
+"r" "" "" "r"
+"s" "" "" "s"
+"t" "" "" "t"
+"u" "" "" "u"
+"v" "" "" "v"
+"w" "" "" "v"
+"x" "" "" "ks"
+"y" "" "" "I"
+"z" "" "" "z"
