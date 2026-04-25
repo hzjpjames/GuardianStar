@@ -1,1 +1,261 @@
-Ly8gc3JjL3NlcnZpY2VzL2FtYXBMb2NhdGlvblNlcnZpY2UuanMKLy8g5qWC5qi655eJ54C55rCr57aF6Y+I5baF5aefIC0g5rWj6Leo5pWk5aij5bOw5oKO57ub5qCr5pqQ6ZSb5rCs5bir6ZCi54OlUFMgKyDmpYLmqLrnl4lXZWIgQVBJICsgSVDngLnmsKvntoUKCmltcG9ydCAqIGFzIExvY2F0aW9uIGZyb20gJ2V4cG8tbG9jYXRpb24nOwoKY29uc3QgQU1BUF9LRVkgPSAnZWE1YWE5M2NiNWVkM2RlMmE1YzcwMTQzNGRjM2U3ODEnOwpjb25zdCBBTUFQX0pTQVBJX0tFWSA9ICdlYTVhYTkzY2I1ZWQzZGUyYTVjNzAxNDM0ZGMzZTc4MSc7IC8vIOmNmuWxvOertOa2k+eLtWV56Y2Z7oiZ5LqS6ZCi44Sk57CsSlNBUEkKCi8vIOmIueKCrOmIueKCrCDmpYLmqLrnl4lJUOeAueawq+e2hemUm+WgneWOpOeSkOeZuOe0nemPg+eKu+a4tlNES+mUmz/piLnigqzpiLnigqwKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGFtYXBJcExvY2F0ZSgpIHsKICB0cnkgewogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goCiAgICAgIGBodHRwczovL3Jlc3RhcGkuYW1hcC5jb20vdjMvaXA/a2V5PSR7QU1BUF9LRVl9Jm91dHB1dD1KU09OYAogICAgKTsKICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgCiAgICBpZiAoanNvbi5zdGF0dXMgPT09ICcxJyAmJiBqc29uLnJlY3RhbmdsZSkgewogICAgICAvLyDnkZnvvYbngL1yZWN0YW5nbGXpkb7ls7DlvYfmtpPuhZ7nuL7pkJA/ICAgICAgY29uc3QgY29vcmRzID0ganNvbi5yZWN0YW5nbGUuc3BsaXQoJzsnKTsKICAgICAgY29uc3QgW3N3LCBuZV0gPSBjb29yZHM7CiAgICAgIGNvbnN0IFtzd0xuZywgc3dMYXRdID0gc3cuc3BsaXQoJywnKS5tYXAoTnVtYmVyKTsKICAgICAgY29uc3QgW25lTG5nLCBuZUxhdF0gPSBuZS5zcGxpdCgnLCcpLm1hcChOdW1iZXIpOwogICAgICBjb25zdCBjZW50ZXJMYXQgPSAoc3dMYXQgKyBuZUxhdCkgLyAyOwogICAgICBjb25zdCBjZW50ZXJMbmcgPSAoc3dMbmcgKyBuZUxuZykgLyAyOwogICAgICAKICAgICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4lJUOeAueawq+e2hV0g6YmBPywganNvbi5jaXR5LCBjZW50ZXJMYXQsIGNlbnRlckxuZyk7CiAgICAgIHJldHVybiB7CiAgICAgICAgbGF0aXR1ZGU6IGNlbnRlckxhdCwKICAgICAgICBsb25naXR1ZGU6IGNlbnRlckxuZywKICAgICAgICBhY2N1cmFjeTogMzAwMCwKICAgICAgICBhbHRpdHVkZTogMCwKICAgICAgICBzcGVlZDogMCwKICAgICAgICB0aW1lc3RhbXA6IERhdGUubm93KCksCiAgICAgICAgc291cmNlOiAn5qWC5qi655eJSVAnLAogICAgICAgIGNpdHk6IGpzb24uY2l0eSwKICAgICAgfTsKICAgIH0KICAgIHRocm93IG5ldyBFcnJvcihqc29uLmluZm8gfHwgJ0lQ54C55rCr57aF5r626L6r6KemJyk7CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4lJUOeAueawq+e2hV0g6YmCPywgZS5tZXNzYWdlKTsKICAgIHRocm93IGU7CiAgfQp9CgovLyDpiLnigqzpiLnigqwg5qWC5qi655eJ6Y2b44So56uf6Y685ruF5YKo54C55rCr57aF6ZSb5aCd54aA5rWc5ba5aUZpL+mNqeiZueePr+mUm+WyhOa4tueRleS4oFRUUFPplJs/6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBhbWFwTmVhcmJ5TG9jYXRlKCkgewogIHRyeSB7CiAgICAvLyDpkb7ls7DlvYfopLDmkrPloqDmtaPltofnlobplJvloKLnn5bpkKPjg6/ntJrpkKLjhKTnsKzpjZvjhKjnq5/pjrzmu4XlgqgKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKAogICAgICBgaHR0cHM6Ly9yZXN0YXBpLmFtYXAuY29tL3YzL3BsYWNlL2Fyb3VuZD9rZXk9JHtBTUFQX0tFWX0mbG9jYXRpb249MTIwLjI5NDk2LDMwLjQyNzUxJnJhZGl1cz0xMDAwJm91dHB1dD1KU09OJm9mZnNldD0xYAogICAgKTsKICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgCiAgICBpZiAoanNvbi5zdGF0dXMgPT09ICcxJyAmJiBqc29uLnBvaXMgJiYganNvbi5wb2lzLmxlbmd0aCA+IDApIHsKICAgICAgY29uc3QgcG9pID0ganNvbi5wb2lzWzBdOwogICAgICBjb25zdCBbbG5nLCBsYXRdID0gcG9pLmxvY2F0aW9uLnNwbGl0KCcsJykubWFwKE51bWJlcik7CiAgICAgIGNvbnNvbGUubG9nKCdb5qWC5qi655eJ6Y2b44So56ufXSDpiYE/LCBwb2kubmFtZSwgbGF0LCBsbmcpOwogICAgICByZXR1cm4gewogICAgICAgIGxhdGl0dWRlOiBsYXQsCiAgICAgICAgbG9uZ2l0dWRlOiBsbmcsCiAgICAgICAgYWNjdXJhY3k6IDUwMCwKICAgICAgICBhbHRpdHVkZTogMCwKICAgICAgICBzcGVlZDogMCwKICAgICAgICB0aW1lc3RhbXA6IERhdGUubm93KCksCiAgICAgICAgc291cmNlOiAn5qWC5qi655eJ6Y2b44So56ufJywKICAgICAgICBhZGRyZXNzOiBwb2kubmFtZSwKICAgICAgfTsKICAgIH0KICAgIHRocm93IG5ldyBFcnJvcign6Y2b44So56uf6Y685ruF5YKo6Y+D54q157Ko6Y+LPyk7CiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4npjZvjhKjnq59dIOmJgj8sIGUubWVzc2FnZSk7CiAgICB0aHJvdyBlOwogIH0KfQoKLy8g6Yi54oKs6Yi54oKsIOalguaouueXieWotOW/mu6djemNo+OEpeeVvua1o+W2j+e0mUhUTUw1IEdlb2xvY2F0aW9uICsg5qWC5qi655eJ6Zar5ZeX5rm06ZCe5ZeZ57Sq6ZCu5L6K57SaIOmIueKCrOmIueKCrApleHBvcnQgYXN5bmMgZnVuY3Rpb24gYW1hcEJyb3dzZXJMb2NhdGUoKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGlmICghbmF2aWdhdG9yIHx8ICFuYXZpZ2F0b3IuZ2VvbG9jYXRpb24pIHsKICAgICAgcmVqZWN0KG5ldyBFcnJvcign5ai05b+a7p2N6Y2j44Sk56yJ6Y+A7oib5a+U54C55rCr57aFJykpOwogICAgICByZXR1cm47CiAgICB9CiAgICAKICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5nZXRDdXJyZW50UG9zaXRpb24oCiAgICAgIGFzeW5jIChwb3NpdGlvbikgPT4gewogICAgICAgIHRyeSB7CiAgICAgICAgICBjb25zdCB7IGxhdGl0dWRlLCBsb25naXR1ZGUsIGFjY3VyYWN5IH0gPSBwb3NpdGlvbi5jb29yZHM7CiAgICAgICAgICAKICAgICAgICAgIC8vIOa1o+i3qOaVpOalguaouueXiemWq+WXl+a5tOmQnuWXmee0qumQruS9veW5j+mNmeagp+a5tOmNp+KCrAogICAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goCiAgICAgICAgICAgIGBodHRwczovL3Jlc3RhcGkuYW1hcC5jb20vdjMvZ2VvY29kZS9yZWdlbz9rZXk9JHtBTUFQX0tFWX0mbG9jYXRpb249JHtsb25naXR1ZGV9LCR7bGF0aXR1ZGV9Jm91dHB1dD1KU09OYAogICAgICAgICAgKTsKICAgICAgICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgICAgICAgCiAgICAgICAgICBjb25zb2xlLmxvZygnW+alguaouueXieWotOW/mu6djemNo+KVmSDpiYE/LCBsYXRpdHVkZSwgbG9uZ2l0dWRlLCBqc29uLnJlZ2VvY29kZT8uZm9ybWF0dGVkX2FkZHJlc3MpOwogICAgICAgICAgcmVzb2x2ZSh7CiAgICAgICAgICAgIGxhdGl0dWRlLAogICAgICAgICAgICBsb25naXR1ZGUsCiAgICAgICAgICAgIGFjY3VyYWN5OiBhY2N1cmFjeSB8fCAxMDAsCiAgICAgICAgICAgIGFsdGl0dWRlOiBwb3NpdGlvbi5jb29yZHMuYWx0aXR1ZGUgfHwgMCwKICAgICAgICAgICAgc3BlZWQ6IHBvc2l0aW9uLmNvb3Jkcy5zcGVlZCB8fCAwLAogICAgICAgICAgICB0aW1lc3RhbXA6IHBvc2l0aW9uLnRpbWVzdGFtcCwKICAgICAgICAgICAgc291cmNlOiAn5qWC5qi655eJ5ai05b+a7p2N6Y2jPywKICAgICAgICAgICAgYWRkcmVzczoganNvbi5yZWdlb2NvZGU/LmZvcm1hdHRlZF9hZGRyZXNzLAogICAgICAgICAgfSk7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgLy8g6Zar5ZeX5rm06ZCe5ZeZ57Sq6ZCu5L2444GR55KQ44Ov57Sd5p2p5pa/5rSW6Y2Y54a37p2Q6Y2n5oSt54ijCiAgICAgICAgICByZXNvbHZlKHsKICAgICAgICAgICAgbGF0aXR1ZGU6IHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZSwKICAgICAgICAgICAgbG9uZ2l0dWRlOiBwb3NpdGlvbi5jb29yZHMubG9uZ2l0dWRlLAogICAgICAgICAgICBhY2N1cmFjeTogcG9zaXRpb24uY29vcmRzLmFjY3VyYWN5IHx8IDEwMCwKICAgICAgICAgICAgYWx0aXR1ZGU6IHBvc2l0aW9uLmNvb3Jkcy5hbHRpdHVkZSB8fCAwLAogICAgICAgICAgICBzcGVlZDogcG9zaXRpb24uY29vcmRzLnNwZWVkIHx8IDAsCiAgICAgICAgICAgIHRpbWVzdGFtcDogcG9zaXRpb24udGltZXN0YW1wLAogICAgICAgICAgICBzb3VyY2U6ICfmpYLmqLrnl4nlqLTlv5runY3pjaM/LAogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9LAogICAgICAoZXJyb3IpID0+IHsKICAgICAgICByZWplY3QobmV3IEVycm9yKCflqLTlv5runY3pjaPjhKXnlb7mtaPltoXjgZHnkpA/ICcgKyBlcnJvci5tZXNzYWdlKSk7CiAgICAgIH0sCiAgICAgIHsKICAgICAgICBlbmFibGVIaWdoQWNjdXJhY3k6IHRydWUsCiAgICAgICAgdGltZW91dDogMjAwMDAsCiAgICAgICAgbWF4aW11bUFnZTogMTAwMDAsCiAgICAgIH0KICAgICk7CiAgfSk7Cn0KCi8vIOmIueKCrOmIueKCrCDpjZjnhrrmlZNHUFMgKyDmpYLmqLrnl4nplqvll5fmubTpkJ7ll5nntKrpkK4/6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBhbWFwTmF0aXZlR3BzKCkgewogIHRyeSB7CiAgICAvLyDpjY/loKPluY/pjZnmoKfluKvpkKLng6VQU+mNp+aEreeIowogICAgY29uc3QgeyBzdGF0dXMgfSA9IGF3YWl0IExvY2F0aW9uLnJlcXVlc3RGb3JlZ3JvdW5kUGVybWlzc2lvbnNBc3luYygpOwogICAgaWYgKHN0YXR1cyAhPT0gJ2dyYW50ZWQnKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign54C55rCr57aF6Y+J5Yau5qq66Y+I7oGF5be/6Y+JPyk7CiAgICB9CiAgICAKICAgIGNvbnNvbGUubG9nKCdb5qWC5qi655eJ6Y2Y54a65pWTR1BTXSDpkb7ls7DlvYfpjZjnhrrmlZPpjafmhK3niKMuLi4nKTsKICAgIGNvbnN0IGxvYyA9IGF3YWl0IExvY2F0aW9uLmdldEN1cnJlbnRQb3NpdGlvbkFzeW5jKHsKICAgICAgYWNjdXJhY3k6IExvY2F0aW9uLkFjY3VyYWN5LkhpZ2gsCiAgICAgIG1heGltdW1BZ2U6IDEwMDAwLAogICAgICB0aW1lb3V0OiAyMDAwMCwKICAgIH0pOwogICAgCiAgICBjb25zdCB7IGxhdGl0dWRlLCBsb25naXR1ZGUsIGFjY3VyYWN5LCBhbHRpdHVkZSwgc3BlZWQgfSA9IGxvYy5jb29yZHM7CiAgICAKICAgIC8vIOa1o+i3qOaVpOalguaouueXiemWq+WXl+a5tOmQnuWXmee0qumQrj8gICAgdHJ5IHsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goCiAgICAgICAgYGh0dHBzOi8vcmVzdGFwaS5hbWFwLmNvbS92My9nZW9jb2RlL3JlZ2VvP2tleT0ke0FNQVBfS0VZfSZsb2NhdGlvbj0ke2xvbmdpdHVkZX0sJHtsYXRpdHVkZX0mb3V0cHV0PUpTT04mZXh0ZW5zaW9ucz1hbGxgCiAgICAgICk7CiAgICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgICAKICAgICAgaWYgKGpzb24uc3RhdHVzID09PSAnMScpIHsKICAgICAgICBjb25zdCBhZGRyZXNzID0ganNvbi5yZWdlb2NvZGU7CiAgICAgICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4npjZjnhrrmlZNHUFNdIOmJgT8sIGxhdGl0dWRlLCBsb25naXR1ZGUsIGFkZHJlc3MuZm9ybWF0dGVkX2FkZHJlc3MpOwogICAgICAgIHJldHVybiB7CiAgICAgICAgICBsYXRpdHVkZSwKICAgICAgICAgIGxvbmdpdHVkZSwKICAgICAgICAgIGFjY3VyYWN5OiBhY2N1cmFjeSB8fCA1MCwKICAgICAgICAgIGFsdGl0dWRlOiBhbHRpdHVkZSB8fCAwLAogICAgICAgICAgc3BlZWQ6IHNwZWVkIHx8IDAsCiAgICAgICAgICB0aW1lc3RhbXA6IGxvYy50aW1lc3RhbXAsCiAgICAgICAgICBzb3VyY2U6ICfmpYLmqLrnl4lHUFMnLAogICAgICAgICAgYWRkcmVzczogYWRkcmVzcy5mb3JtYXR0ZWRfYWRkcmVzcywKICAgICAgICAgIGNpdHk6IGFkZHJlc3MuYWRkcmVzc0NvbXBvbmVudD8uY2l0eSwKICAgICAgICAgIGRpc3RyaWN0OiBhZGRyZXNzLmFkZHJlc3NDb21wb25lbnQ/LmRpc3RyaWN0LAogICAgICAgIH07CiAgICAgIH0KICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4npjZjnhrrmlZNHUFNdIOmWq+WXl+a5tOmQnuWXmee0qumQruS9uOOBkeeSkOODr+e0neadqeaWv+a0lumNmOeGt+6dkOmNp+aEreeIoycpOwogICAgfQogICAgCiAgICByZXR1cm4gewogICAgICBsYXRpdHVkZSwKICAgICAgbG9uZ2l0dWRlLAogICAgICBhY2N1cmFjeTogYWNjdXJhY3kgfHwgNTAsCiAgICAgIGFsdGl0dWRlOiBhbHRpdHVkZSB8fCAwLAogICAgICBzcGVlZDogc3BlZWQgfHwgMCwKICAgICAgdGltZXN0YW1wOiBsb2MudGltZXN0YW1wLAogICAgICBzb3VyY2U6ICfmpYLmqLrnl4lHUFMnLAogICAgfTsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmxvZygnW+alguaouueXiemNmOeGuuaVk0dQU10g6YmCPywgZS5tZXNzYWdlKTsKICAgIHRocm93IGU7CiAgfQp9CgovLyDpiLnigqzpiLnigqwg6Y+F6bi/5YWY54C55rCr57aF6ZSb5rC254+u5a+w5bOw7pi/57ub5qCr5pqQ6ZO75baF5oKOIOmIueKCrOmIueKCrApleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0QW1hcExvY2F0aW9uKCkgewogIGNvbnN0IGVycm9ycyA9IFtdOwogIAogIC8vIOe7m+agq+aakDE6IOmNmOeGuuaVk0dQUyArIOalguaouueXiemWq+WXl+a5tOmQnuWXmee0qumQruS+iue0memPiOKCrOmNkeWXree0mgogIHRyeSB7CiAgICBjb25zb2xlLmxvZygnW+alguaouueXieeAueawq+e2hV0g57ub5qCr5pqQMTog6Y2Y54a65pWTR1BTLi4uJyk7CiAgICByZXR1cm4gYXdhaXQgYW1hcE5hdGl2ZUdwcygpOwogIH0gY2F0Y2ggKGUpIHsKICAgIGVycm9ycy5wdXNoKCfpjZjnhrrmlZNHUFM6ICcgKyBlLm1lc3NhZ2UpOwogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4nngLnmsKvntoVdIOe7m+agq+aakDHmvrbovqvop6Y6JywgZS5tZXNzYWdlKTsKICB9CiAgCiAgLy8g57ub5qCr5pqQMjog5ai05b+a7p2N6Y2j44Sl55W+5rWj5baP57SZ5r+h5YKb54GJ6Y2m4pWTZWLpkJzuiJrulajplJs/ICB0cnkgewogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4nngLnmsKvntoVdIOe7m+agq+aakDI6IOWotOW/mu6djemNo+OEpeeVvua1oz8uLicpOwogICAgcmV0dXJuIGF3YWl0IGFtYXBCcm93c2VyTG9jYXRlKCk7CiAgfSBjYXRjaCAoZSkgewogICAgZXJyb3JzLnB1c2goJ+WotOW/mu6djemNoz8gJyArIGUubWVzc2FnZSk7CiAgICBjb25zb2xlLmxvZygnW+alguaouueXieeAueawq+e2hV0g57ub5qCr5pqQMua+tui+q+inpjonLCBlLm1lc3NhZ2UpOwogIH0KICAKICAvLyDnu5vmoKvmmpAzOiDmpYLmqLrnl4lJUOeAueawq+e2hemUm+WgnOe5muaQtOabque0mgogIHRyeSB7CiAgICBjb25zb2xlLmxvZygnW+alguaouueXieeAueawq+e2hV0g57ub5qCr5pqQMzogSVDngLnmsKvntoUuLi4nKTsKICAgIHJldHVybiBhd2FpdCBhbWFwSXBMb2NhdGUoKTsKICB9IGNhdGNoIChlKSB7CiAgICBlcnJvcnMucHVzaCgnSVDngLnmsKvntoU6ICcgKyBlLm1lc3NhZ2UpOwogICAgY29uc29sZS5sb2coJ1vmpYLmqLrnl4nngLnmsKvntoVdIOe7m+agq+aakDPmvrbovqvop6Y6JywgZS5tZXNzYWdlKTsKICB9CiAgCiAgdGhyb3cgbmV3IEVycm9yKCfmpYLmqLrnl4nngLnmsKvntoXpjY/jhKnlhLTmvrbovqvop6Y6ICcgKyBlcnJvcnMuam9pbignOyAnKSk7Cn0KCi8vIOmIueKCrOmIueKCrCDmpYLmqLrnl4npjabmia7mgornvILmoKvniJzplJvloJ3mubTpjafigqzmnZ7uhIDmvZfpj43lm7fntJog6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBhbWFwR2VvY29kZShhZGRyZXNzKSB7CiAgdHJ5IHsKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKAogICAgICBgaHR0cHM6Ly9yZXN0YXBpLmFtYXAuY29tL3YzL2dlb2NvZGUvZ2VvP2tleT0ke0FNQVBfS0VZfSZhZGRyZXNzPSR7ZW5jb2RlVVJJQ29tcG9uZW50KGFkZHJlc3MpfSZvdXRwdXQ9SlNPTmAKICAgICk7CiAgICBjb25zdCBqc29uID0gYXdhaXQgcmVzLmpzb24oKTsKICAgIAogICAgaWYgKGpzb24uc3RhdHVzID09PSAnMScgJiYganNvbi5nZW9jb2RlcyAmJiBqc29uLmdlb2NvZGVzLmxlbmd0aCA+IDApIHsKICAgICAgY29uc3QgbG9jID0ganNvbi5nZW9jb2Rlc1swXTsKICAgICAgY29uc3QgW2xuZywgbGF0XSA9IGxvYy5sb2NhdGlvbi5zcGxpdCgnLCcpLm1hcChOdW1iZXIpOwogICAgICByZXR1cm4geyBsYXRpdHVkZTogbGF0LCBsb25naXR1ZGU6IGxuZywgYWRkcmVzczogbG9jLmZvcm1hdHRlZF9hZGRyZXNzIH07CiAgICB9CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+mNpuaJruaCiue8guagq+eInOa+tui+q+inpicpOwogIH0gY2F0Y2ggKGUpIHsKICAgIHRocm93IG5ldyBFcnJvcign6Y2m5omu5oKK57yC5qCr54ic5r626L6r6KemOiAnICsgZS5tZXNzYWdlKTsKICB9Cn0KCi8vIOmIueKCrOmIueKCrCDmpYLmqLrnl4nplqvll5fmubTpkJ7ll5nntKrpkK7kvorntJnpjafmhK3niKPmnZ7uhIDmubTpjafigqzplJs/6Yi54oKs6Yi54oKsCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBhbWFwUmVnZW9jb2RlKGxhdGl0dWRlLCBsb25naXR1ZGUpIHsKICB0cnkgewogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goCiAgICAgIGBodHRwczovL3Jlc3RhcGkuYW1hcC5jb20vdjMvZ2VvY29kZS9yZWdlbz9rZXk9JHtBTUFQX0tFWX0mbG9jYXRpb249JHtsb25naXR1ZGV9LCR7bGF0aXR1ZGV9Jm91dHB1dD1KU09OJmV4dGVuc2lvbnM9YWxsYAogICAgKTsKICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgCiAgICBpZiAoanNvbi5zdGF0dXMgPT09ICcxJykgewogICAgICByZXR1cm4gewogICAgICAgIGFkZHJlc3M6IGpzb24ucmVnZW9jb2RlLmZvcm1hdHRlZF9hZGRyZXNzLAogICAgICAgIGNpdHk6IGpzb24ucmVnZW9jb2RlLmFkZHJlc3NDb21wb25lbnQ/LmNpdHksCiAgICAgICAgZGlzdHJpY3Q6IGpzb24ucmVnZW9jb2RlLmFkZHJlc3NDb21wb25lbnQ/LmRpc3RyaWN0LAogICAgICAgIHN0cmVldDoganNvbi5yZWdlb2NvZGUuYWRkcmVzc0NvbXBvbmVudD8uc3RyZWV0LAogICAgICB9OwogICAgfQogICAgdGhyb3cgbmV3IEVycm9yKCfplqvll5fmubTpkJ7ll5nntKrpkK7kvbjjgZHnkpA/KTsKICB9IGNhdGNoIChlKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+mWq+WXl+a5tOmQnuWXmee0qumQruS9uOOBkeeSkD8gJyArIGUubWVzc2FnZSk7CiAgfQp9Cg==
+// src/services/amapLocationService.js
+// 楂樺痉瀹氫綅鏈嶅姟 - 浣跨敤娣峰悎绛栫暐锛氬師鐢烥PS + 楂樺痉Web API + IP瀹氫綅
+
+import * as Location from 'expo-location';
+
+const AMAP_KEY = 'ea5aa93cb5ed3de2a5c701434dc3e781';
+const AMAP_JSAPI_KEY = 'ea5aa93cb5ed3de2a5c701434dc3e781'; // 鍚屼竴涓狵ey鍙互鐢ㄤ簬JSAPI
+
+// 鈹€鈹€ 楂樺痉IP瀹氫綅锛堝厤璐癸紝鏃犻渶SDK锛?鈹€鈹€
+export async function amapIpLocate() {
+  try {
+    const res = await fetch(
+      `https://restapi.amap.com/v3/ip?key=${AMAP_KEY}&output=JSON`
+    );
+    const json = await res.json();
+    
+    if (json.status === '1' && json.rectangle) {
+      // 瑙ｆ瀽rectangle鑾峰彇涓績鐐?      const coords = json.rectangle.split(';');
+      const [sw, ne] = coords;
+      const [swLng, swLat] = sw.split(',').map(Number);
+      const [neLng, neLat] = ne.split(',').map(Number);
+      const centerLat = (swLat + neLat) / 2;
+      const centerLng = (swLng + neLng) / 2;
+      
+      console.log('[楂樺痉IP瀹氫綅] 鉁?, json.city, centerLat, centerLng);
+      return {
+        latitude: centerLat,
+        longitude: centerLng,
+        accuracy: 3000,
+        altitude: 0,
+        speed: 0,
+        timestamp: Date.now(),
+        source: '楂樺痉IP',
+        city: json.city,
+      };
+    }
+    throw new Error(json.info || 'IP瀹氫綅澶辫触');
+  } catch (e) {
+    console.log('[楂樺痉IP瀹氫綅] 鉂?, e.message);
+    throw e;
+  }
+}
+
+// 鈹€鈹€ 楂樺痉鍛ㄨ竟鎼滅储瀹氫綅锛堝熀浜嶹iFi/鍩虹珯锛岄渶瑕丠TTPS锛?鈹€鈹€
+export async function amapNearbyLocate() {
+  try {
+    // 鑾峰彇褰撳墠浣嶇疆锛堢矖鐣ワ級鐢ㄤ簬鍛ㄨ竟鎼滅储
+    const res = await fetch(
+      `https://restapi.amap.com/v3/place/around?key=${AMAP_KEY}&location=120.29496,30.42751&radius=1000&output=JSON&offset=1`
+    );
+    const json = await res.json();
+    
+    if (json.status === '1' && json.pois && json.pois.length > 0) {
+      const poi = json.pois[0];
+      const [lng, lat] = poi.location.split(',').map(Number);
+      console.log('[楂樺痉鍛ㄨ竟] 鉁?, poi.name, lat, lng);
+      return {
+        latitude: lat,
+        longitude: lng,
+        accuracy: 500,
+        altitude: 0,
+        speed: 0,
+        timestamp: Date.now(),
+        source: '楂樺痉鍛ㄨ竟',
+        address: poi.name,
+      };
+    }
+    throw new Error('鍛ㄨ竟鎼滅储鏃犵粨鏋?);
+  } catch (e) {
+    console.log('[楂樺痉鍛ㄨ竟] 鉂?, e.message);
+    throw e;
+  }
+}
+
+// 鈹€鈹€ 楂樺痉娴忚鍣ㄥ畾浣嶏紙HTML5 Geolocation + 楂樺痉閫嗗湴鐞嗙紪鐮侊級 鈹€鈹€
+export async function amapBrowserLocate() {
+  return new Promise((resolve, reject) => {
+    if (!navigator || !navigator.geolocation) {
+      reject(new Error('娴忚鍣ㄤ笉鏀寔瀹氫綅'));
+      return;
+    }
+    
+    navigator.geolocation.getCurrentPosition(
+      async (position) => {
+        try {
+          const { latitude, longitude, accuracy } = position.coords;
+          
+          // 浣跨敤楂樺痉閫嗗湴鐞嗙紪鐮佽幏鍙栧湴鍧€
+          const res = await fetch(
+            `https://restapi.amap.com/v3/geocode/regeo?key=${AMAP_KEY}&location=${longitude},${latitude}&output=JSON`
+          );
+          const json = await res.json();
+          
+          console.log('[楂樺痉娴忚鍣╙ 鉁?, latitude, longitude, json.regeocode?.formatted_address);
+          resolve({
+            latitude,
+            longitude,
+            accuracy: accuracy || 100,
+            altitude: position.coords.altitude || 0,
+            speed: position.coords.speed || 0,
+            timestamp: position.timestamp,
+            source: '楂樺痉娴忚鍣?,
+            address: json.regeocode?.formatted_address,
+          });
+        } catch (e) {
+          // 閫嗗湴鐞嗙紪鐮佸け璐ワ紝杩斿洖鍘熷鍧愭爣
+          resolve({
+            latitude: position.coords.latitude,
+            longitude: position.coords.longitude,
+            accuracy: position.coords.accuracy || 100,
+            altitude: position.coords.altitude || 0,
+            speed: position.coords.speed || 0,
+            timestamp: position.timestamp,
+            source: '楂樺痉娴忚鍣?,
+          });
+        }
+      },
+      (error) => {
+        reject(new Error('娴忚鍣ㄥ畾浣嶅け璐? ' + error.message));
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 20000,
+        maximumAge: 10000,
+      }
+    );
+  });
+}
+
+// 鈹€鈹€ 鍘熺敓GPS + 楂樺痉閫嗗湴鐞嗙紪鐮?鈹€鈹€
+export async function amapNativeGps() {
+  try {
+    // 鍏堣幏鍙栧師鐢烥PS鍧愭爣
+    const { status } = await Location.requestForegroundPermissionsAsync();
+    if (status !== 'granted') {
+      throw new Error('瀹氫綅鏉冮檺鏈巿鏉?);
+    }
+    
+    console.log('[楂樺痉鍘熺敓GPS] 鑾峰彇鍘熺敓鍧愭爣...');
+    const loc = await Location.getCurrentPositionAsync({
+      accuracy: Location.Accuracy.High,
+      maximumAge: 10000,
+      timeout: 20000,
+    });
+    
+    const { latitude, longitude, accuracy, altitude, speed } = loc.coords;
+    
+    // 浣跨敤楂樺痉閫嗗湴鐞嗙紪鐮?    try {
+      const res = await fetch(
+        `https://restapi.amap.com/v3/geocode/regeo?key=${AMAP_KEY}&location=${longitude},${latitude}&output=JSON&extensions=all`
+      );
+      const json = await res.json();
+      
+      if (json.status === '1') {
+        const address = json.regeocode;
+        console.log('[楂樺痉鍘熺敓GPS] 鉁?, latitude, longitude, address.formatted_address);
+        return {
+          latitude,
+          longitude,
+          accuracy: accuracy || 50,
+          altitude: altitude || 0,
+          speed: speed || 0,
+          timestamp: loc.timestamp,
+          source: '楂樺痉GPS',
+          address: address.formatted_address,
+          city: address.addressComponent?.city,
+          district: address.addressComponent?.district,
+        };
+      }
+    } catch (e) {
+      console.log('[楂樺痉鍘熺敓GPS] 閫嗗湴鐞嗙紪鐮佸け璐ワ紝杩斿洖鍘熷鍧愭爣');
+    }
+    
+    return {
+      latitude,
+      longitude,
+      accuracy: accuracy || 50,
+      altitude: altitude || 0,
+      speed: speed || 0,
+      timestamp: loc.timestamp,
+      source: '楂樺痉GPS',
+    };
+  } catch (e) {
+    console.log('[楂樺痉鍘熺敓GPS] 鉂?, e.message);
+    throw e;
+  }
+}
+
+// 鈹€鈹€ 鏅鸿兘瀹氫綅锛氶珮寰峰绛栫暐铻嶅悎 鈹€鈹€
+export async function getAmapLocation() {
+  const errors = [];
+  
+  // 绛栫暐1: 鍘熺敓GPS + 楂樺痉閫嗗湴鐞嗙紪鐮侊紙鏈€鍑嗭級
+  try {
+    console.log('[楂樺痉瀹氫綅] 绛栫暐1: 鍘熺敓GPS...');
+    return await amapNativeGps();
+  } catch (e) {
+    errors.push('鍘熺敓GPS: ' + e.message);
+    console.log('[楂樺痉瀹氫綅] 绛栫暐1澶辫触:', e.message);
+  }
+  
+  // 绛栫暐2: 娴忚鍣ㄥ畾浣嶏紙濡傛灉鍦╓eb鐜锛?  try {
+    console.log('[楂樺痉瀹氫綅] 绛栫暐2: 娴忚鍣ㄥ畾浣?..');
+    return await amapBrowserLocate();
+  } catch (e) {
+    errors.push('娴忚鍣? ' + e.message);
+    console.log('[楂樺痉瀹氫綅] 绛栫暐2澶辫触:', e.message);
+  }
+  
+  // 绛栫暐3: 楂樺痉IP瀹氫綅锛堜繚搴曪級
+  try {
+    console.log('[楂樺痉瀹氫綅] 绛栫暐3: IP瀹氫綅...');
+    return await amapIpLocate();
+  } catch (e) {
+    errors.push('IP瀹氫綅: ' + e.message);
+    console.log('[楂樺痉瀹氫綅] 绛栫暐3澶辫触:', e.message);
+  }
+  
+  throw new Error('楂樺痉瀹氫綅鍏ㄩ儴澶辫触: ' + errors.join('; '));
+}
+
+// 鈹€鈹€ 楂樺痉鍦扮悊缂栫爜锛堝湴鍧€杞潗鏍囷級 鈹€鈹€
+export async function amapGeocode(address) {
+  try {
+    const res = await fetch(
+      `https://restapi.amap.com/v3/geocode/geo?key=${AMAP_KEY}&address=${encodeURIComponent(address)}&output=JSON`
+    );
+    const json = await res.json();
+    
+    if (json.status === '1' && json.geocodes && json.geocodes.length > 0) {
+      const loc = json.geocodes[0];
+      const [lng, lat] = loc.location.split(',').map(Number);
+      return { latitude: lat, longitude: lng, address: loc.formatted_address };
+    }
+    throw new Error('鍦扮悊缂栫爜澶辫触');
+  } catch (e) {
+    throw new Error('鍦扮悊缂栫爜澶辫触: ' + e.message);
+  }
+}
+
+// 鈹€鈹€ 楂樺痉閫嗗湴鐞嗙紪鐮侊紙鍧愭爣杞湴鍧€锛?鈹€鈹€
+export async function amapRegeocode(latitude, longitude) {
+  try {
+    const res = await fetch(
+      `https://restapi.amap.com/v3/geocode/regeo?key=${AMAP_KEY}&location=${longitude},${latitude}&output=JSON&extensions=all`
+    );
+    const json = await res.json();
+    
+    if (json.status === '1') {
+      return {
+        address: json.regeocode.formatted_address,
+        city: json.regeocode.addressComponent?.city,
+        district: json.regeocode.addressComponent?.district,
+        street: json.regeocode.addressComponent?.street,
+      };
+    }
+    throw new Error('閫嗗湴鐞嗙紪鐮佸け璐?);
+  } catch (e) {
+    throw new Error('閫嗗湴鐞嗙紪鐮佸け璐? ' + e.message);
+  }
+}
